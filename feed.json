@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2022/08/30/keeping-up-with.html",
+				
+				"content_html": "<p>Keeping Up with the News, Sanely <a href=\"https://www.annahavron.com/blog/keeping-up-with-the-news-sanely\">annahavron.com</a></p>\n",
+				"content_text": "Keeping Up with the News, Sanely [annahavron.com](https://www.annahavron.com/blog/keeping-up-with-the-news-sanely)\n",
+				"date_published": "2022-08-30T12:26:11-04:00",
+				"url": "https://annahavron.micro.blog/2022/08/30/keeping-up-with.html"
+			},
+			{
+				"id": "http://annahavron.micro.blog/2022/08/27/beans-teaching-buddha.html",
+				
+				"content_html": "<p>Beans, teaching Buddha how to meditate. 🐈 Happy Caturday.</p>\n\n<p><img src=\"uploads/2022/929a6b8646.jpg\" width=\"600\" height=\"450\" alt=\"striped cat with closed eyes curled around a garden statue of Buddha, which also has closed eyes \" /></p>\n",
+				"content_text": "Beans, teaching Buddha how to meditate. 🐈 Happy Caturday.\n\n<img src=\"uploads/2022/929a6b8646.jpg\" width=\"600\" height=\"450\" alt=\"striped cat with closed eyes curled around a garden statue of Buddha, which also has closed eyes \" />\n",
+				"date_published": "2022-08-27T13:41:30-04:00",
+				"url": "https://annahavron.micro.blog/2022/08/27/beans-teaching-buddha.html",
+				"tags": ["I like cats","why not"]
+			},
+			{
+				"id": "http://annahavron.micro.blog/2022/08/23/look-no-one.html",
+				
+				"content_html": "<p>Look! No one is biting anyone&rsquo;s ears. No one is swatting anyone&rsquo;s face. No one is hissing or using bad language. We are being VERY GOOD sitting nicely together. It only took two years. 🐈</p>\n\n<p><img src=\"uploads/2022/aaf926059f.jpg\" width=\"600\" height=\"450\" alt=\"two cats sitting side by side\" /></p>\n",
+				"content_text": "Look! No one is biting anyone's ears. No one is swatting anyone's face. No one is hissing or using bad language. We are being VERY GOOD sitting nicely together. It only took two years. 🐈\n\n<img src=\"uploads/2022/aaf926059f.jpg\" width=\"600\" height=\"450\" alt=\"two cats sitting side by side\" />\n",
+				"date_published": "2022-08-23T12:42:28-04:00",
+				"url": "https://annahavron.micro.blog/2022/08/23/look-no-one.html",
+				"tags": ["I like cats"]
+			},
+			{
+				"id": "http://annahavron.micro.blog/2022/08/23/another-lovely-morning.html",
+				
+				"content_html": "<p>Another lovely morning walk, and the green heron was here today, too. I think it&rsquo;s a juvenile &ndash; lots of brown stripes and streaks. When I saw it hunting last week alongside the bank, its patterns made it nearly invisible as it stalked along the grasses. Also, enjoy some wildflowers.</p>\n\n<p><img src=\"uploads/2022/5a86995eb5.jpg\" width=\"600\" height=\"443\" alt=\"green heron on a tree branch in morning mist\" /></p>\n\n<p><img src=\"uploads/2022/06de6e781b.jpg\" width=\"600\" height=\"556\" alt=\"green heron on a tree branch, looking alert\" /></p>\n\n<p><img src=\"uploads/2022/ed89b46e34.jpg\" width=\"600\" height=\"400\" alt=\"white and purple late summer wildflowers\" /></p>\n\n<p><img src=\"uploads/2022/1c85dc4f8d.jpg\" width=\"600\" height=\"400\" alt=\"purple asters, I think, and cattails by the water, lit by morning sun\" /></p>\n",
+				"content_text": "Another lovely morning walk, and the green heron was here today, too. I think it's a juvenile -- lots of brown stripes and streaks. When I saw it hunting last week alongside the bank, its patterns made it nearly invisible as it stalked along the grasses. Also, enjoy some wildflowers.\r\n\r\n<img src=\"uploads/2022/5a86995eb5.jpg\" width=\"600\" height=\"443\" alt=\"green heron on a tree branch in morning mist\" />\r\n\r\n<img src=\"uploads/2022/06de6e781b.jpg\" width=\"600\" height=\"556\" alt=\"green heron on a tree branch, looking alert\" />\r\n\r\n<img src=\"uploads/2022/ed89b46e34.jpg\" width=\"600\" height=\"400\" alt=\"white and purple late summer wildflowers\" />\r\n\r\n<img src=\"uploads/2022/1c85dc4f8d.jpg\" width=\"600\" height=\"400\" alt=\"purple asters, I think, and cattails by the water, lit by morning sun\" />\n",
+				"date_published": "2022-08-23T12:20:27-04:00",
+				"url": "https://annahavron.micro.blog/2022/08/23/another-lovely-morning.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2022/08/20/really-liking-the.html",
 				
 				"content_html": "<p>Really liking the wetland trail downtown. Here&rsquo;s a green heron!</p>\n\n<p><img src=\"uploads/2022/36f08847fe.jpg\" width=\"600\" height=\"557\" alt=\"a green heron perching on a dead tree branch\" /></p>\n",
@@ -25,16 +59,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/08/12/some-house-sparrows.html",
 				
-				"content_html": "<p>Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.</p>\n\n<p><img src=\"uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" /></p>\n",
-				"content_text": "Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.\r\n\r\n<img src=\"uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" />\n",
+				"content_html": "<p>Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" /></p>\n",
+				"content_text": "Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" />\n",
 				"date_published": "2022-08-12T17:33:10-04:00",
 				"url": "https://annahavron.micro.blog/2022/08/12/some-house-sparrows.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2022/08/12/thanks-to-aa.html",
 				
-				"content_html": "<p>Thanks to <a href=\"https://micro.blog/aa\">@aa</a> for this wonderful key wrist strap! The leather lining on the inside means it&rsquo;s way more durable than my old one. A Buy it For Life item, for sure.</p>\n\n<p><img src=\"uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" /></p>\n",
-				"content_text": "Thanks to [@aa](https://micro.blog/aa) for this wonderful key wrist strap! The leather lining on the inside means it's way more durable than my old one. A Buy it For Life item, for sure. \r\n\r\n<img src=\"uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" />\n",
+				"content_html": "<p>Thanks to <a href=\"https://micro.blog/aa\">@aa</a> for this wonderful key wrist strap! The leather lining on the inside means it&rsquo;s way more durable than my old one. A Buy it For Life item, for sure.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" /></p>\n",
+				"content_text": "Thanks to [@aa](https://micro.blog/aa) for this wonderful key wrist strap! The leather lining on the inside means it's way more durable than my old one. A Buy it For Life item, for sure. \r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" />\n",
 				"date_published": "2022-08-12T17:27:58-04:00",
 				"url": "https://annahavron.micro.blog/2022/08/12/thanks-to-aa.html"
 			},
@@ -158,15 +192,6 @@
 				"content_text": "I wait all year for this tree peony to bloom.\n\n<img src=\"https://annahavron.micro.blog/uploads/2022/fd88e1760d.jpg\" width=\"600\" height=\"800\" alt=\"pink tree peony blossom, in peak bloom, covered with raindrops\" />\n",
 				"date_published": "2022-04-27T08:38:00-04:00",
 				"url": "https://annahavron.micro.blog/2022/04/27/i-wait-all.html"
-			},
-			{
-				"id": "http://annahavron.micro.blog/2022/04/26/how-to-find.html",
-				"title": "How to find inspiration for what to write about, on your blog",
-				"content_html": "<p>Various thoughts, in response to a question about how writers find inspiration to post regular content on their blogs:</p>\n\n<ul>\n<li><p>What about turning the question around backwards? You don&rsquo;t have to have an idea to write. Writing is what generates ideas. If I&rsquo;m struggling for content, I just start writing: rambling, really. I set a timer or a word count, and write whatever comes to mind that fills the minutes or word count. Generally I will hit on something that energizes me enough to write more about it.</p></li>\n\n<li><p>I made a shift in my thinking. Rather than assume that what I write is not interesting to others, I assume that somebody, somewhere, among the billions on this planet, shares the problems and interests I have. My job is to publish my thoughts, so that they can be useful to others who struggle with the same things I struggle with. I also don&rsquo;t worry about being unique or literary. I worry, instead, about making my thoughts <em>clear.</em></p></li>\n\n<li><p>I commit to writing deadlines. Due to having had several jobs where I had to write for deadlines, often when I had no idea what I&rsquo;d write about, I KNOW that I don&rsquo;t have to have an idea to start writing. I just have to have a deadline! This is why both of my blogs have newsletter components.  I have to write something at least 1x a week for <a href=\"https://analogoffice.net/\">analogoffice.net</a>, and I have to write something at least 1x every two weeks for <a href=\"https://www.annahavron.com/\">annahavron.com</a>; because that&rsquo;s when the newsletters come out.</p></li>\n\n<li><p>I commit to learning in public. I never know which posts will resonate with people. It&rsquo;s okay if something doesn&rsquo;t get much of a response; I&rsquo;m going to write more posts and maybe the next post will be something that someone finds useful. And sometimes stuff I wrote a long time ago gets a response much later. You never know.</p></li>\n\n<li><p>I commit to AIC time. Keeping this family-friendly, I commit to putting my (backside) In Chair, early every morning. When my backside is in the writing chair, it is time for me to write. I have AIC time 5 times a week. If I am not writing during AIC time, I am not allowed to do anything else. So, yeah, sometimes I just sit there staring at a screen, but usually something will occur to me.</p></li>\n\n<li><p>I carry a notebook everywhere I go, because some ideas that energize me come to me when I am out on a walk or doing the dishes or ironing stuff. And then I regularly review that notebook.</p></li>\n\n<li><p>I have a couple of topics I&rsquo;m obsessive about. I blog so I don&rsquo;t bore my IRL family and friends to tears with my personal obsessions. If they want to read it, they can; but it&rsquo;s an outlet for me.</p></li>\n\n<li><p>If I don&rsquo;t write, I&rsquo;m miserable, which is tedious, and an own-goal, besides. Because I know this about myself, I look at writing like I look at getting out for a walk. If I want to be energized for the day, I have to write first thing in the morning, and I have to get out for a walk. Otherwise, I&rsquo;m crabby. Since I hate being crabby, I write and I walk.</p></li>\n</ul>\n",
-				"content_text": "Various thoughts, in response to a question about how writers find inspiration to post regular content on their blogs: \r\n\r\n- What about turning the question around backwards? You don't have to have an idea to write. Writing is what generates ideas. If I'm struggling for content, I just start writing: rambling, really. I set a timer or a word count, and write whatever comes to mind that fills the minutes or word count. Generally I will hit on something that energizes me enough to write more about it.\r\n  \r\n- I made a shift in my thinking. Rather than assume that what I write is not interesting to others, I assume that somebody, somewhere, among the billions on this planet, shares the problems and interests I have. My job is to publish my thoughts, so that they can be useful to others who struggle with the same things I struggle with. I also don't worry about being unique or literary. I worry, instead, about making my thoughts *clear.*\r\n  \r\n-  I commit to writing deadlines. Due to having had several jobs where I had to write for deadlines, often when I had no idea what I'd write about, I KNOW that I don't have to have an idea to start writing. I just have to have a deadline! This is why both of my blogs have newsletter components.  I have to write something at least 1x a week for [analogoffice.net](https://analogoffice.net/), and I have to write something at least 1x every two weeks for [annahavron.com](https://www.annahavron.com/); because that's when the newsletters come out. \r\n   \r\n- I commit to learning in public. I never know which posts will resonate with people. It's okay if something doesn't get much of a response; I'm going to write more posts and maybe the next post will be something that someone finds useful. And sometimes stuff I wrote a long time ago gets a response much later. You never know.\r\n  \r\n- I commit to AIC time. Keeping this family-friendly, I commit to putting my (backside) In Chair, early every morning. When my backside is in the writing chair, it is time for me to write. I have AIC time 5 times a week. If I am not writing during AIC time, I am not allowed to do anything else. So, yeah, sometimes I just sit there staring at a screen, but usually something will occur to me.\r\n  \r\n- I carry a notebook everywhere I go, because some ideas that energize me come to me when I am out on a walk or doing the dishes or ironing stuff. And then I regularly review that notebook. \r\n  \r\n- I have a couple of topics I'm obsessive about. I blog so I don't bore my IRL family and friends to tears with my personal obsessions. If they want to read it, they can; but it's an outlet for me.\r\n  \r\n- If I don't write, I'm miserable, which is tedious, and an own-goal, besides. Because I know this about myself, I look at writing like I look at getting out for a walk. If I want to be energized for the day, I have to write first thing in the morning, and I have to get out for a walk. Otherwise, I'm crabby. Since I hate being crabby, I write and I walk. \n",
-				"date_published": "2022-04-26T08:28:46-04:00",
-				"url": "https://annahavron.micro.blog/2022/04/26/how-to-find.html",
-				"tags": ["works for me"]
 			},
 			{
 				"id": "http://annahavron.micro.blog/2022/04/25/just-got-back.html",
@@ -392,8 +417,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/10/28/hippies-use-side.html",
 				
-				"content_html": "<p>Hippies Use Side Door</p>\n\n<p><img src=\"uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" /></p>\n",
-				"content_text": "Hippies Use Side Door\n\n<img src=\"uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" />\n",
+				"content_html": "<p>Hippies Use Side Door</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" /></p>\n",
+				"content_text": "Hippies Use Side Door\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" />\n",
 				"date_published": "2021-10-28T12:09:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/28/hippies-use-side.html",
 				"tags": ["hmmm"]
@@ -401,8 +426,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/10/28/there-is-a.html",
 				
-				"content_html": "<p>There is a brick road <strong>underneath</strong> the asphalt.  Micro.blog October photo challenge Day 28: underneath</p>\n\n<p><img src=\"uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" /></p>\n",
-				"content_text": "There is a brick road **underneath** the asphalt.  Micro.blog October photo challenge Day 28: underneath\n\n<img src=\"uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" />\n",
+				"content_html": "<p>There is a brick road <strong>underneath</strong> the asphalt.  Micro.blog October photo challenge Day 28: underneath</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" /></p>\n",
+				"content_text": "There is a brick road **underneath** the asphalt.  Micro.blog October photo challenge Day 28: underneath\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" />\n",
 				"date_published": "2021-10-28T10:49:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/28/there-is-a.html"
 			},
