@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2022/10/15/cardboard-shredder-preparing.html",
+				
+				"content_html": "<p>Cardboard shredder preparing to bite that corner; and box sitter, making sure it&rsquo;s occupied. Teamwork! Happy Caturday 🐈</p>\n\n<p><img src=\"uploads/2022/dd40e3ca1f.jpg\" width=\"600\" height=\"450\" alt=\"striped cat sitting inside cardboard box, black and white cat getting ready to chew on an outer flap of the cardboard box\" /></p>\n",
+				"content_text": "Cardboard shredder preparing to bite that corner; and box sitter, making sure it's occupied. Teamwork! Happy Caturday 🐈 \r\n\r\n<img src=\"uploads/2022/dd40e3ca1f.jpg\" width=\"600\" height=\"450\" alt=\"striped cat sitting inside cardboard box, black and white cat getting ready to chew on an outer flap of the cardboard box\" />\n",
+				"date_published": "2022-10-15T08:54:40-04:00",
+				"url": "https://annahavron.micro.blog/2022/10/15/cardboard-shredder-preparing.html"
+			},
+			{
+				"id": "http://annahavron.micro.blog/2022/10/15/the-world-stops.html",
+				
+				"content_html": "<p>The World Stops When a Kind Person Dies. <a href=\"https://www.annahavron.com/blog/the-world-stops-when-a-kind-person-dies\">annahavron.com</a></p>\n",
+				"content_text": "The World Stops When a Kind Person Dies. [annahavron.com](https://www.annahavron.com/blog/the-world-stops-when-a-kind-person-dies)\n",
+				"date_published": "2022-10-15T08:38:02-04:00",
+				"url": "https://annahavron.micro.blog/2022/10/15/the-world-stops.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2022/10/13/a-day-in.html",
 				
-				"content_html": "<p><a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life</a></p>\n\n<p><img src=\"uploads/2022/955eaaed73.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>Cemetery, Shenandoah County, Virginia, 2:15 p.m.\nOfficiated at one funeral here an hour earlier. I’ll be back to do another tomorrow.</p>\n",
-				"content_text": "[A Day in the Life](https://micro.welltempered.net/2022/10/11/a-day-in.html)\r\n\r\n<img src=\"uploads/2022/955eaaed73.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\nCemetery, Shenandoah County, Virginia, 2:15 p.m.\r\nOfficiated at one funeral here an hour earlier. I’ll be back to do another tomorrow.\r\n",
+				"content_html": "<p><a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life</a></p>\n\n<p><img src=\"uploads/2022/955eaaed73.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p>Cemetery, Shenandoah County, Virginia, USA, 2:15 p.m.\nOfficiated at one funeral here an hour earlier. I’ll be back to do another tomorrow.</p>\n",
+				"content_text": "[A Day in the Life](https://micro.welltempered.net/2022/10/11/a-day-in.html)\n\n<img src=\"uploads/2022/955eaaed73.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\nCemetery, Shenandoah County, Virginia, USA, 2:15 p.m.\nOfficiated at one funeral here an hour earlier. I’ll be back to do another tomorrow.\n",
 				"date_published": "2022-10-13T16:31:14-04:00",
 				"url": "https://annahavron.micro.blog/2022/10/13/a-day-in.html"
 			},
@@ -76,16 +92,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/08/23/another-lovely-morning.html",
 				
-				"content_html": "<p>Another lovely morning walk, and the green heron was here today, too. I think it&rsquo;s a juvenile &ndash; lots of brown stripes and streaks. When I saw it hunting last week alongside the bank, its patterns made it nearly invisible as it stalked along the grasses. Also, enjoy some wildflowers.</p>\n\n<p><img src=\"uploads/2022/5a86995eb5.jpg\" width=\"600\" height=\"443\" alt=\"green heron on a tree branch in morning mist\" /></p>\n\n<p><img src=\"uploads/2022/06de6e781b.jpg\" width=\"600\" height=\"556\" alt=\"green heron on a tree branch, looking alert\" /></p>\n\n<p><img src=\"uploads/2022/ed89b46e34.jpg\" width=\"600\" height=\"400\" alt=\"white and purple late summer wildflowers\" /></p>\n\n<p><img src=\"uploads/2022/1c85dc4f8d.jpg\" width=\"600\" height=\"400\" alt=\"purple asters, I think, and cattails by the water, lit by morning sun\" /></p>\n",
-				"content_text": "Another lovely morning walk, and the green heron was here today, too. I think it's a juvenile -- lots of brown stripes and streaks. When I saw it hunting last week alongside the bank, its patterns made it nearly invisible as it stalked along the grasses. Also, enjoy some wildflowers.\r\n\r\n<img src=\"uploads/2022/5a86995eb5.jpg\" width=\"600\" height=\"443\" alt=\"green heron on a tree branch in morning mist\" />\r\n\r\n<img src=\"uploads/2022/06de6e781b.jpg\" width=\"600\" height=\"556\" alt=\"green heron on a tree branch, looking alert\" />\r\n\r\n<img src=\"uploads/2022/ed89b46e34.jpg\" width=\"600\" height=\"400\" alt=\"white and purple late summer wildflowers\" />\r\n\r\n<img src=\"uploads/2022/1c85dc4f8d.jpg\" width=\"600\" height=\"400\" alt=\"purple asters, I think, and cattails by the water, lit by morning sun\" />\n",
+				"content_html": "<p>Another lovely morning walk, and the green heron was here today, too. I think it&rsquo;s a juvenile &ndash; lots of brown stripes and streaks. When I saw it hunting last week alongside the bank, its patterns made it nearly invisible as it stalked along the grasses. Also, enjoy some wildflowers.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/5a86995eb5.jpg\" width=\"600\" height=\"443\" alt=\"green heron on a tree branch in morning mist\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/06de6e781b.jpg\" width=\"600\" height=\"556\" alt=\"green heron on a tree branch, looking alert\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/ed89b46e34.jpg\" width=\"600\" height=\"400\" alt=\"white and purple late summer wildflowers\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/1c85dc4f8d.jpg\" width=\"600\" height=\"400\" alt=\"purple asters, I think, and cattails by the water, lit by morning sun\" /></p>\n",
+				"content_text": "Another lovely morning walk, and the green heron was here today, too. I think it's a juvenile -- lots of brown stripes and streaks. When I saw it hunting last week alongside the bank, its patterns made it nearly invisible as it stalked along the grasses. Also, enjoy some wildflowers.\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/5a86995eb5.jpg\" width=\"600\" height=\"443\" alt=\"green heron on a tree branch in morning mist\" />\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/06de6e781b.jpg\" width=\"600\" height=\"556\" alt=\"green heron on a tree branch, looking alert\" />\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/ed89b46e34.jpg\" width=\"600\" height=\"400\" alt=\"white and purple late summer wildflowers\" />\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/1c85dc4f8d.jpg\" width=\"600\" height=\"400\" alt=\"purple asters, I think, and cattails by the water, lit by morning sun\" />\n",
 				"date_published": "2022-08-23T12:20:27-04:00",
 				"url": "https://annahavron.micro.blog/2022/08/23/another-lovely-morning.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2022/08/20/really-liking-the.html",
 				
-				"content_html": "<p>Really liking the wetland trail downtown. Here&rsquo;s a green heron!</p>\n\n<p><img src=\"uploads/2022/36f08847fe.jpg\" width=\"600\" height=\"557\" alt=\"a green heron perching on a dead tree branch\" /></p>\n",
-				"content_text": "Really liking the wetland trail downtown. Here's a green heron! \r\n\r\n<img src=\"uploads/2022/36f08847fe.jpg\" width=\"600\" height=\"557\" alt=\"a green heron perching on a dead tree branch\" />\n",
+				"content_html": "<p>Really liking the wetland trail downtown. Here&rsquo;s a green heron!</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/36f08847fe.jpg\" width=\"600\" height=\"557\" alt=\"a green heron perching on a dead tree branch\" /></p>\n",
+				"content_text": "Really liking the wetland trail downtown. Here's a green heron! \r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/36f08847fe.jpg\" width=\"600\" height=\"557\" alt=\"a green heron perching on a dead tree branch\" />\n",
 				"date_published": "2022-08-20T16:12:32-04:00",
 				"url": "https://annahavron.micro.blog/2022/08/20/really-liking-the.html"
 			},
@@ -100,16 +116,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/08/12/some-house-sparrows.html",
 				
-				"content_html": "<p>Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.</p>\n\n<p><img src=\"uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" /></p>\n",
-				"content_text": "Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.\r\n\r\n<img src=\"uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" />\n",
+				"content_html": "<p>Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" /></p>\n",
+				"content_text": "Some house sparrows built a nest behind this gutter. They planted their own rooftop garden with the seeds they carried in for the young.\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/a246b4e70d.jpg\" width=\"600\" height=\"602\" alt=\"two house sparrows standing on a roof above a rain gutter, with several varieties of wild plants sprouting from it\" />\n",
 				"date_published": "2022-08-12T17:33:10-04:00",
 				"url": "https://annahavron.micro.blog/2022/08/12/some-house-sparrows.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2022/08/12/thanks-to-aa.html",
 				
-				"content_html": "<p>Thanks to <a href=\"https://micro.blog/aa\">@aa</a> for this wonderful key wrist strap! The leather lining on the inside means it&rsquo;s way more durable than my old one. A Buy it For Life item, for sure.</p>\n\n<p><img src=\"uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" /></p>\n",
-				"content_text": "Thanks to [@aa](https://micro.blog/aa) for this wonderful key wrist strap! The leather lining on the inside means it's way more durable than my old one. A Buy it For Life item, for sure. \r\n\r\n<img src=\"uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" />\n",
+				"content_html": "<p>Thanks to <a href=\"https://micro.blog/aa\">@aa</a> for this wonderful key wrist strap! The leather lining on the inside means it&rsquo;s way more durable than my old one. A Buy it For Life item, for sure.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" /></p>\n",
+				"content_text": "Thanks to [@aa](https://micro.blog/aa) for this wonderful key wrist strap! The leather lining on the inside means it's way more durable than my old one. A Buy it For Life item, for sure. \r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/c221e7a295.jpg\" width=\"600\" height=\"454\" alt=\"leather wrist strap with key ring attached, shown on my wrist\" />\n",
 				"date_published": "2022-08-12T17:27:58-04:00",
 				"url": "https://annahavron.micro.blog/2022/08/12/thanks-to-aa.html"
 			},
@@ -156,8 +172,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/06/13/sculpture-depicting-one.html",
 				
-				"content_html": "<p>Sculpture depicting one of my favorite childhood games.</p>\n\n<p><img src=\"uploads/2022/9f6b54cae3.jpg\" width=\"600\" height=\"800\" alt=\"a sculpture of a paper origami crane balanced on a pair of scissors balancing on top of a rock\" /></p>\n",
-				"content_text": "Sculpture depicting one of my favorite childhood games. \r\n\r\n<img src=\"uploads/2022/9f6b54cae3.jpg\" width=\"600\" height=\"800\" alt=\"a sculpture of a paper origami crane balanced on a pair of scissors balancing on top of a rock\" />\n",
+				"content_html": "<p>Sculpture depicting one of my favorite childhood games.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/9f6b54cae3.jpg\" width=\"600\" height=\"800\" alt=\"a sculpture of a paper origami crane balanced on a pair of scissors balancing on top of a rock\" /></p>\n",
+				"content_text": "Sculpture depicting one of my favorite childhood games. \r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/9f6b54cae3.jpg\" width=\"600\" height=\"800\" alt=\"a sculpture of a paper origami crane balanced on a pair of scissors balancing on top of a rock\" />\n",
 				"date_published": "2022-06-13T14:44:37-04:00",
 				"url": "https://annahavron.micro.blog/2022/06/13/sculpture-depicting-one.html"
 			},
@@ -172,16 +188,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/05/31/whew-we-were.html",
 				
-				"content_html": "<p>Whew, we were running low on house finches. Grateful for home delivery.</p>\n\n<p><img src=\"uploads/2022/b378159f20.jpg\" width=\"600\" height=\"450\" alt=\"bird's nest built on floral front door wreath, with six eggs inside\" /></p>\n",
-				"content_text": "Whew, we were running low on house finches. Grateful for home delivery. \r\n\r\n<img src=\"uploads/2022/b378159f20.jpg\" width=\"600\" height=\"450\" alt=\"bird's nest built on floral front door wreath, with six eggs inside\" />\n",
+				"content_html": "<p>Whew, we were running low on house finches. Grateful for home delivery.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/b378159f20.jpg\" width=\"600\" height=\"450\" alt=\"bird's nest built on floral front door wreath, with six eggs inside\" /></p>\n",
+				"content_text": "Whew, we were running low on house finches. Grateful for home delivery. \r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/b378159f20.jpg\" width=\"600\" height=\"450\" alt=\"bird's nest built on floral front door wreath, with six eggs inside\" />\n",
 				"date_published": "2022-05-31T13:03:48-04:00",
 				"url": "https://annahavron.micro.blog/2022/05/31/whew-we-were.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2022/05/30/we-dont-have.html",
 				
-				"content_html": "<p>We don&rsquo;t have an aquarium; just a school of catnip <strong>fish</strong> - microblog <a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">photo challenge</a>, May 30</p>\n\n<p><img src=\"uploads/2022/eb12933571.jpg\" width=\"600\" height=\"325\" alt=\"catnip toy shaped like a fish lying on a wooden floor\" /></p>\n\n<p><img src=\"uploads/2022/7ea5382dcf.jpg\" width=\"600\" height=\"256\" alt=\"catnip toy shaped like a fish lying on a carpet\" /></p>\n",
-				"content_text": "We don't have an aquarium; just a school of catnip **fish** - microblog [photo challenge](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html), May 30\r\n\r\n<img src=\"uploads/2022/eb12933571.jpg\" width=\"600\" height=\"325\" alt=\"catnip toy shaped like a fish lying on a wooden floor\" />\r\n\r\n<img src=\"uploads/2022/7ea5382dcf.jpg\" width=\"600\" height=\"256\" alt=\"catnip toy shaped like a fish lying on a carpet\" />\n",
+				"content_html": "<p>We don&rsquo;t have an aquarium; just a school of catnip <strong>fish</strong> - microblog <a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">photo challenge</a>, May 30</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/eb12933571.jpg\" width=\"600\" height=\"325\" alt=\"catnip toy shaped like a fish lying on a wooden floor\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/7ea5382dcf.jpg\" width=\"600\" height=\"256\" alt=\"catnip toy shaped like a fish lying on a carpet\" /></p>\n",
+				"content_text": "We don't have an aquarium; just a school of catnip **fish** - microblog [photo challenge](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html), May 30\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/eb12933571.jpg\" width=\"600\" height=\"325\" alt=\"catnip toy shaped like a fish lying on a wooden floor\" />\r\n\r\n<img src=\"https://annahavron.micro.blog/uploads/2022/7ea5382dcf.jpg\" width=\"600\" height=\"256\" alt=\"catnip toy shaped like a fish lying on a carpet\" />\n",
 				"date_published": "2022-05-30T10:27:54-04:00",
 				"url": "https://annahavron.micro.blog/2022/05/30/we-dont-have.html"
 			},
@@ -229,16 +245,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/04/27/i-wait-all.html",
 				
-				"content_html": "<p>I wait all year for this tree peony to bloom.</p>\n\n<p><img src=\"uploads/2022/fd88e1760d.jpg\" width=\"600\" height=\"800\" alt=\"pink tree peony blossom, in peak bloom, covered with raindrops\" /></p>\n",
-				"content_text": "I wait all year for this tree peony to bloom.\n\n<img src=\"uploads/2022/fd88e1760d.jpg\" width=\"600\" height=\"800\" alt=\"pink tree peony blossom, in peak bloom, covered with raindrops\" />\n",
+				"content_html": "<p>I wait all year for this tree peony to bloom.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/fd88e1760d.jpg\" width=\"600\" height=\"800\" alt=\"pink tree peony blossom, in peak bloom, covered with raindrops\" /></p>\n",
+				"content_text": "I wait all year for this tree peony to bloom.\n\n<img src=\"https://annahavron.micro.blog/uploads/2022/fd88e1760d.jpg\" width=\"600\" height=\"800\" alt=\"pink tree peony blossom, in peak bloom, covered with raindrops\" />\n",
 				"date_published": "2022-04-27T08:38:00-04:00",
 				"url": "https://annahavron.micro.blog/2022/04/27/i-wait-all.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2022/04/25/just-got-back.html",
 				
-				"content_html": "<p>Just got back from a fantastic visit to Portland, Oregon. Here are some pics, from most to least manicured mossiness. But everything is mossy&hellip; including some people&rsquo;s cars.</p>\n\n<p><img src=\"uploads/2022/ecc8b56dd6.jpg\" width=\"600\" height=\"450\" alt=\"Zen garden, with moss-covered rocks in a landscape of carefully raked gravel\" /></p>\n\n<p><img src=\"uploads/2022/bb39fe2b44.jpg\" width=\"600\" height=\"450\" alt=\"a moss-covered Japanese stone lantern in a garden, set in a bed of moss under a tree\" /></p>\n\n<p><img src=\"uploads/2022/5a8486d6fb.jpg\" width=\"600\" height=\"800\" alt=\"a tree in a forest with its trunk and branches covered with several different kinds of moss\" /></p>\n",
-				"content_text": "Just got back from a fantastic visit to Portland, Oregon. Here are some pics, from most to least manicured mossiness. But everything is mossy... including some people's cars.\n\n<img src=\"uploads/2022/ecc8b56dd6.jpg\" width=\"600\" height=\"450\" alt=\"Zen garden, with moss-covered rocks in a landscape of carefully raked gravel\" />\n\n<img src=\"uploads/2022/bb39fe2b44.jpg\" width=\"600\" height=\"450\" alt=\"a moss-covered Japanese stone lantern in a garden, set in a bed of moss under a tree\" />\n\n<img src=\"uploads/2022/5a8486d6fb.jpg\" width=\"600\" height=\"800\" alt=\"a tree in a forest with its trunk and branches covered with several different kinds of moss\" />\n",
+				"content_html": "<p>Just got back from a fantastic visit to Portland, Oregon. Here are some pics, from most to least manicured mossiness. But everything is mossy&hellip; including some people&rsquo;s cars.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/ecc8b56dd6.jpg\" width=\"600\" height=\"450\" alt=\"Zen garden, with moss-covered rocks in a landscape of carefully raked gravel\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/bb39fe2b44.jpg\" width=\"600\" height=\"450\" alt=\"a moss-covered Japanese stone lantern in a garden, set in a bed of moss under a tree\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/5a8486d6fb.jpg\" width=\"600\" height=\"800\" alt=\"a tree in a forest with its trunk and branches covered with several different kinds of moss\" /></p>\n",
+				"content_text": "Just got back from a fantastic visit to Portland, Oregon. Here are some pics, from most to least manicured mossiness. But everything is mossy... including some people's cars.\n\n<img src=\"https://annahavron.micro.blog/uploads/2022/ecc8b56dd6.jpg\" width=\"600\" height=\"450\" alt=\"Zen garden, with moss-covered rocks in a landscape of carefully raked gravel\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2022/bb39fe2b44.jpg\" width=\"600\" height=\"450\" alt=\"a moss-covered Japanese stone lantern in a garden, set in a bed of moss under a tree\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2022/5a8486d6fb.jpg\" width=\"600\" height=\"800\" alt=\"a tree in a forest with its trunk and branches covered with several different kinds of moss\" />\n",
 				"date_published": "2022-04-25T09:12:00-04:00",
 				"url": "https://annahavron.micro.blog/2022/04/25/just-got-back.html"
 			},
@@ -326,8 +342,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2022/01/07/hes-liking-the.html",
 				
-				"content_html": "<p>He&rsquo;s liking the split keyboard.</p>\n\n<p><img src=\"uploads/2022/ce27f45181.jpg\" width=\"600\" height=\"450\" alt=\"a large striped cat is lying in the gap in the middle of a split keyboard\" /></p>\n",
-				"content_text": "He's liking the split keyboard. \n\n\n\n<img src=\"uploads/2022/ce27f45181.jpg\" width=\"600\" height=\"450\" alt=\"a large striped cat is lying in the gap in the middle of a split keyboard\" />\n",
+				"content_html": "<p>He&rsquo;s liking the split keyboard.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2022/ce27f45181.jpg\" width=\"600\" height=\"450\" alt=\"a large striped cat is lying in the gap in the middle of a split keyboard\" /></p>\n",
+				"content_text": "He's liking the split keyboard. \n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2022/ce27f45181.jpg\" width=\"600\" height=\"450\" alt=\"a large striped cat is lying in the gap in the middle of a split keyboard\" />\n",
 				"date_published": "2022-01-07T13:58:00-04:00",
 				"url": "https://annahavron.micro.blog/2022/01/07/hes-liking-the.html"
 			},
@@ -350,8 +366,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/12/22/and-in-western.html",
 				
-				"content_html": "<p>&rdquo;&hellip;and in western East Virginia today, a shocking take-down of Santa Claus. A feline washing her face near the scene darted under the coffee table when approached.&rdquo;</p>\n\n<p><img src=\"uploads/2021/b75ca3aae4.jpg\" width=\"600\" height=\"548\" alt=\"a Christmas tree ornament of Santa Claus is lying face-down on the floor, underneath a Christmas tree branch\" /></p>\n",
-				"content_text": "\"...and in western East Virginia today, a shocking take-down of Santa Claus. A feline washing her face near the scene darted under the coffee table when approached.\"\n\n<img src=\"uploads/2021/b75ca3aae4.jpg\" width=\"600\" height=\"548\" alt=\"a Christmas tree ornament of Santa Claus is lying face-down on the floor, underneath a Christmas tree branch\" />\n\n",
+				"content_html": "<p>&rdquo;&hellip;and in western East Virginia today, a shocking take-down of Santa Claus. A feline washing her face near the scene darted under the coffee table when approached.&rdquo;</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/b75ca3aae4.jpg\" width=\"600\" height=\"548\" alt=\"a Christmas tree ornament of Santa Claus is lying face-down on the floor, underneath a Christmas tree branch\" /></p>\n",
+				"content_text": "\"...and in western East Virginia today, a shocking take-down of Santa Claus. A feline washing her face near the scene darted under the coffee table when approached.\"\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/b75ca3aae4.jpg\" width=\"600\" height=\"548\" alt=\"a Christmas tree ornament of Santa Claus is lying face-down on the floor, underneath a Christmas tree branch\" />\n\n",
 				"date_published": "2021-12-22T17:08:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/12/22/and-in-western.html",
 				"tags": ["I like cats","hmmm"]
@@ -375,8 +391,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/12/14/he-loves-his.html",
 				
-				"content_html": "<p>He loves his radiator.</p>\n\n<p><img src=\"uploads/2021/0c5660387a.jpg\" width=\"600\" height=\"249\" alt=\"a large striped cat sleeps on his side, on top of a radiator cover\" /></p>\n",
-				"content_text": "He loves his radiator.\n\n\n\n<img src=\"uploads/2021/0c5660387a.jpg\" width=\"600\" height=\"249\" alt=\"a large striped cat sleeps on his side, on top of a radiator cover\" />\n",
+				"content_html": "<p>He loves his radiator.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/0c5660387a.jpg\" width=\"600\" height=\"249\" alt=\"a large striped cat sleeps on his side, on top of a radiator cover\" /></p>\n",
+				"content_text": "He loves his radiator.\n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/0c5660387a.jpg\" width=\"600\" height=\"249\" alt=\"a large striped cat sleeps on his side, on top of a radiator cover\" />\n",
 				"date_published": "2021-12-14T13:41:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/12/14/he-loves-his.html"
 			},
@@ -407,8 +423,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/11/19/im-sure-theres.html",
 				
-				"content_html": "<p>I&rsquo;m sure there&rsquo;s a reasonable explanation for this&hellip;.</p>\n\n<p><img src=\"uploads/2021/4d020fb296.jpg\" width=\"450\" height=\"600\" alt=\"on the second story of an old brick building, is a door with no stairwell or balcony attached\" /></p>\n",
-				"content_text": "I'm sure there's a reasonable explanation for this....\n\n\n<img src=\"uploads/2021/4d020fb296.jpg\" width=\"450\" height=\"600\" alt=\"on the second story of an old brick building, is a door with no stairwell or balcony attached\" />\n",
+				"content_html": "<p>I&rsquo;m sure there&rsquo;s a reasonable explanation for this&hellip;.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/4d020fb296.jpg\" width=\"450\" height=\"600\" alt=\"on the second story of an old brick building, is a door with no stairwell or balcony attached\" /></p>\n",
+				"content_text": "I'm sure there's a reasonable explanation for this....\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/4d020fb296.jpg\" width=\"450\" height=\"600\" alt=\"on the second story of an old brick building, is a door with no stairwell or balcony attached\" />\n",
 				"date_published": "2021-11-19T17:13:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/11/19/im-sure-theres.html",
 				"tags": ["hmmm"]
@@ -425,24 +441,24 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/11/12/your-roles-give.html",
 				
-				"content_html": "<p><a href=\"https://www.annahavron.com/blog/your-roles-give-you-your-rules\">Your roles give you your rules</a></p>\n\n<p><img src=\"uploads/2021/7b9efb1098.jpg\" width=\"600\" height=\"440\" alt=\"a drawing of a robin sitting on an arrow that says, this way\" /></p>\n",
-				"content_text": " [Your roles give you your rules](https://www.annahavron.com/blog/your-roles-give-you-your-rules) \n\n\n\n<img src=\"uploads/2021/7b9efb1098.jpg\" width=\"600\" height=\"440\" alt=\"a drawing of a robin sitting on an arrow that says, this way\" />\n",
+				"content_html": "<p><a href=\"https://www.annahavron.com/blog/your-roles-give-you-your-rules\">Your roles give you your rules</a></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/7b9efb1098.jpg\" width=\"600\" height=\"440\" alt=\"a drawing of a robin sitting on an arrow that says, this way\" /></p>\n",
+				"content_text": " [Your roles give you your rules](https://www.annahavron.com/blog/your-roles-give-you-your-rules) \n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/7b9efb1098.jpg\" width=\"600\" height=\"440\" alt=\"a drawing of a robin sitting on an arrow that says, this way\" />\n",
 				"date_published": "2021-11-12T09:24:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/11/12/your-roles-give.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/11/02/sugar-maple.html",
 				
-				"content_html": "<p>Sugar maple</p>\n\n<p><img src=\"uploads/2021/abad054569.jpg\" width=\"600\" height=\"450\" alt=\"close-up of leaves on a sugar maple tree colored red, pink, orange, and yellow\" /></p>\n",
-				"content_text": "Sugar maple\n\n\n\n<img src=\"uploads/2021/abad054569.jpg\" width=\"600\" height=\"450\" alt=\"close-up of leaves on a sugar maple tree colored red, pink, orange, and yellow\" />\n",
+				"content_html": "<p>Sugar maple</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/abad054569.jpg\" width=\"600\" height=\"450\" alt=\"close-up of leaves on a sugar maple tree colored red, pink, orange, and yellow\" /></p>\n",
+				"content_text": "Sugar maple\n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/abad054569.jpg\" width=\"600\" height=\"450\" alt=\"close-up of leaves on a sugar maple tree colored red, pink, orange, and yellow\" />\n",
 				"date_published": "2021-11-02T12:48:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/11/02/sugar-maple.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/10/29/on-cold-rainy.html",
 				
-				"content_html": "<p>On cold, rainy days, they <strong>cycle</strong> back and forth between radiators. Microblog October 29 photo challenge, &ldquo;cycle&rdquo;</p>\n\n<p><img src=\"uploads/2021/ba64783691.jpg\" width=\"600\" height=\"346\" alt=\"a striped cat lying on top of a radiator cover\" /></p>\n\n<p><img src=\"uploads/2021/ba04d9e6ec.jpg\" width=\"600\" height=\"492\" alt=\"a black and white cat lying on top of a radiator cover\" /></p>\n",
-				"content_text": "On cold, rainy days, they **cycle** back and forth between radiators. Microblog October 29 photo challenge, \"cycle\"\n\n<img src=\"uploads/2021/ba64783691.jpg\" width=\"600\" height=\"346\" alt=\"a striped cat lying on top of a radiator cover\" />\n\n<img src=\"uploads/2021/ba04d9e6ec.jpg\" width=\"600\" height=\"492\" alt=\"a black and white cat lying on top of a radiator cover\" />\n",
+				"content_html": "<p>On cold, rainy days, they <strong>cycle</strong> back and forth between radiators. Microblog October 29 photo challenge, &ldquo;cycle&rdquo;</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/ba64783691.jpg\" width=\"600\" height=\"346\" alt=\"a striped cat lying on top of a radiator cover\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/ba04d9e6ec.jpg\" width=\"600\" height=\"492\" alt=\"a black and white cat lying on top of a radiator cover\" /></p>\n",
+				"content_text": "On cold, rainy days, they **cycle** back and forth between radiators. Microblog October 29 photo challenge, \"cycle\"\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/ba64783691.jpg\" width=\"600\" height=\"346\" alt=\"a striped cat lying on top of a radiator cover\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/ba04d9e6ec.jpg\" width=\"600\" height=\"492\" alt=\"a black and white cat lying on top of a radiator cover\" />\n",
 				"date_published": "2021-10-29T12:36:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/29/on-cold-rainy.html",
 				"tags": ["I like cats"]
@@ -458,8 +474,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/10/28/hippies-use-side.html",
 				
-				"content_html": "<p>Hippies Use Side Door</p>\n\n<p><img src=\"uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" /></p>\n",
-				"content_text": "Hippies Use Side Door\n\n<img src=\"uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" />\n",
+				"content_html": "<p>Hippies Use Side Door</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" /></p>\n",
+				"content_text": "Hippies Use Side Door\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/6c5476f8d0.jpg\" width=\"450\" height=\"600\" alt=\"a vintage sign on a weatherbeaten gate reads hippies use side door\" />\n",
 				"date_published": "2021-10-28T12:09:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/28/hippies-use-side.html",
 				"tags": ["hmmm"]
@@ -467,16 +483,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/10/28/there-is-a.html",
 				
-				"content_html": "<p>There is a brick road <strong>underneath</strong> the asphalt.  Micro.blog October photo challenge Day 28: underneath</p>\n\n<p><img src=\"uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" /></p>\n",
-				"content_text": "There is a brick road **underneath** the asphalt.  Micro.blog October photo challenge Day 28: underneath\n\n<img src=\"uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" />\n",
+				"content_html": "<p>There is a brick road <strong>underneath</strong> the asphalt.  Micro.blog October photo challenge Day 28: underneath</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" /></p>\n",
+				"content_text": "There is a brick road **underneath** the asphalt.  Micro.blog October photo challenge Day 28: underneath\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/34a4528c16.jpg\" width=\"600\" height=\"407\" alt=\"a small green plant grows in a gap on the edge of an asphalt road that reveals an older brick road below\" />\n",
 				"date_published": "2021-10-28T10:49:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/28/there-is-a.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/10/27/our-little-princess.html",
 				
-				"content_html": "<p>Our little princess is always dreaming of <strong>chaos.</strong> <a href=\"https://micro.blog/challenges\">October photoblogging challenge</a></p>\n\n<p><img src=\"uploads/2021/20e63b05b3.jpg\" width=\"600\" height=\"450\" alt=\"a black and white cat lies fully stretched out on a blanket with her belly showing\" /></p>\n",
-				"content_text": "Our little princess is always dreaming of **chaos.** [October photoblogging challenge](https://micro.blog/challenges)\n\n<img src=\"uploads/2021/20e63b05b3.jpg\" width=\"600\" height=\"450\" alt=\"a black and white cat lies fully stretched out on a blanket with her belly showing\" />\n",
+				"content_html": "<p>Our little princess is always dreaming of <strong>chaos.</strong> <a href=\"https://micro.blog/challenges\">October photoblogging challenge</a></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/20e63b05b3.jpg\" width=\"600\" height=\"450\" alt=\"a black and white cat lies fully stretched out on a blanket with her belly showing\" /></p>\n",
+				"content_text": "Our little princess is always dreaming of **chaos.** [October photoblogging challenge](https://micro.blog/challenges)\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/20e63b05b3.jpg\" width=\"600\" height=\"450\" alt=\"a black and white cat lies fully stretched out on a blanket with her belly showing\" />\n",
 				"date_published": "2021-10-27T15:39:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/27/our-little-princess.html",
 				"tags": ["I like cats"]
@@ -484,32 +500,32 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/10/27/treat-yourself.html",
 				
-				"content_html": "<p>Treat yourself.</p>\n\n<p><img src=\"uploads/2021/960298266d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Treat yourself.\n\n<img src=\"uploads/2021/960298266d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Treat yourself.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/960298266d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Treat yourself.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/960298266d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-27T14:26:28-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/27/treat-yourself.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/10/27/eat-more-biscuits.html",
 				
-				"content_html": "<p>Eat more biscuits.</p>\n\n<p><img src=\"uploads/2021/279eb8ecda.jpg\" width=\"600\" height=\"384\" alt=\"\" /></p>\n",
-				"content_text": "Eat more biscuits.\n\n<img src=\"uploads/2021/279eb8ecda.jpg\" width=\"600\" height=\"384\" alt=\"\" />\n",
+				"content_html": "<p>Eat more biscuits.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/279eb8ecda.jpg\" width=\"600\" height=\"384\" alt=\"\" /></p>\n",
+				"content_text": "Eat more biscuits.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/279eb8ecda.jpg\" width=\"600\" height=\"384\" alt=\"\" />\n",
 				"date_published": "2021-10-27T14:25:17-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/27/eat-more-biscuits.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/10/27/what-willie-said.html",
 				
-				"content_html": "<p>What Willie said.</p>\n\n<p><img src=\"uploads/2021/cde433a751.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "What Willie said.\n\n<img src=\"uploads/2021/cde433a751.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>What Willie said.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/cde433a751.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "What Willie said.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/cde433a751.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-27T14:23:43-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/27/what-willie-said.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/10/27/142216.html",
 				
-				"content_html": "<p>Sit.</p>\n\n<p><img src=\"uploads/2021/6cf6501980.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Sit.\n\n<img src=\"uploads/2021/6cf6501980.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Sit.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/6cf6501980.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Sit.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/6cf6501980.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-10-27T14:22:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/10/27/142216.html",
 				"tags": ["coffee hour"]
@@ -534,48 +550,48 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/08/17/150419.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/2ce6c89ff5.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/2ce6c89ff5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://annahavron.micro.blog/uploads/2021/2ce6c89ff5.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/2ce6c89ff5.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-17T15:04:19-04:00",
 				"url": "https://annahavron.micro.blog/2021/08/17/150419.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/08/17/150401.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/f3ef0c99fa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/f3ef0c99fa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://annahavron.micro.blog/uploads/2021/f3ef0c99fa.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/f3ef0c99fa.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-17T15:04:01-04:00",
 				"url": "https://annahavron.micro.blog/2021/08/17/150401.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/07/19/a-house-finch.html",
 				
-				"content_html": "<p>A house finch decided to make her nest on the wreath on our front door. I get scolded whenever I get the mail.</p>\n\n<p><img src=\"uploads/2021/b4f2b01116.jpg\" width=\"422\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A house finch decided to make her nest on the wreath on our front door. I get scolded whenever I get the mail. \n\n<img src=\"uploads/2021/b4f2b01116.jpg\" width=\"422\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A house finch decided to make her nest on the wreath on our front door. I get scolded whenever I get the mail.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/b4f2b01116.jpg\" width=\"422\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A house finch decided to make her nest on the wreath on our front door. I get scolded whenever I get the mail. \n\n<img src=\"https://annahavron.micro.blog/uploads/2021/b4f2b01116.jpg\" width=\"422\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-19T10:33:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/07/19/a-house-finch.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/07/13/baltimore-oriole-nest.html",
 				
-				"content_html": "<p>Baltimore oriole nest - looks like a little hammock!</p>\n\n<p><img src=\"uploads/2021/19e3fbeea8.jpg\" width=\"586\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Baltimore oriole nest - looks like a little hammock!\n\n<img src=\"uploads/2021/19e3fbeea8.jpg\" width=\"586\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Baltimore oriole nest - looks like a little hammock!</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/19e3fbeea8.jpg\" width=\"586\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Baltimore oriole nest - looks like a little hammock!\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/19e3fbeea8.jpg\" width=\"586\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-07-13T16:24:27-04:00",
 				"url": "https://annahavron.micro.blog/2021/07/13/baltimore-oriole-nest.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/06/25/my-brain-keeps.html",
 				
-				"content_html": "<p>My brain keeps thinking it&rsquo;s better than my checklists, <a href=\"https://www.annahavron.com/blog/the-night-before-gets-you-out-the-door\">but no.</a></p>\n\n<p><img src=\"uploads/2021/f504498491.jpg\" width=\"600\" height=\"469\" alt=\"\" /></p>\n",
-				"content_text": "My brain keeps thinking it's better than my checklists, [but no.](https://www.annahavron.com/blog/the-night-before-gets-you-out-the-door) \n\n<img src=\"uploads/2021/f504498491.jpg\" width=\"600\" height=\"469\" alt=\"\" />\n",
+				"content_html": "<p>My brain keeps thinking it&rsquo;s better than my checklists, <a href=\"https://www.annahavron.com/blog/the-night-before-gets-you-out-the-door\">but no.</a></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/f504498491.jpg\" width=\"600\" height=\"469\" alt=\"\" /></p>\n",
+				"content_text": "My brain keeps thinking it's better than my checklists, [but no.](https://www.annahavron.com/blog/the-night-before-gets-you-out-the-door) \n\n<img src=\"https://annahavron.micro.blog/uploads/2021/f504498491.jpg\" width=\"600\" height=\"469\" alt=\"\" />\n",
 				"date_published": "2021-06-25T16:48:58-04:00",
 				"url": "https://annahavron.micro.blog/2021/06/25/my-brain-keeps.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/06/17/shenandoah-valley.html",
 				
-				"content_html": "<p>Shenandoah Valley</p>\n\n<p><img src=\"uploads/2021/473d518d93.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Shenandoah Valley\n\n<img src=\"uploads/2021/473d518d93.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Shenandoah Valley</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/473d518d93.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Shenandoah Valley\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/473d518d93.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-06-17T15:43:10-04:00",
 				"url": "https://annahavron.micro.blog/2021/06/17/shenandoah-valley.html"
 			},
@@ -599,8 +615,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/05/22/guardian-of-the.html",
 				
-				"content_html": "<p>Guardian of the Bamboo Forest, issuing a warning, or perhaps making a prophecy. Can&rsquo;t be sure.</p>\n\n<p><img src=\"uploads/2021/63b20c9bf7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Guardian of the Bamboo Forest, issuing a warning, or perhaps making a prophecy. Can't be sure.\n\n<img src=\"uploads/2021/63b20c9bf7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Guardian of the Bamboo Forest, issuing a warning, or perhaps making a prophecy. Can&rsquo;t be sure.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/63b20c9bf7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Guardian of the Bamboo Forest, issuing a warning, or perhaps making a prophecy. Can't be sure.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/63b20c9bf7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-22T15:19:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/05/22/guardian-of-the.html",
 				"tags": ["talking with strangers","hmmm"]
@@ -608,8 +624,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/05/21/okay-brood-x.html",
 				
-				"content_html": "<p>Okay, Brood X cicadas&hellip;  <em>That&rsquo;s my garlic</em> you&rsquo;re resting on! The sheer numbers get biblical, but <a href=\"https://www.bbg.org/news/will_the_cicadas_hurt_your_plants\">these young adults won&rsquo;t actually eat our plants.</a></p>\n\n<p><img src=\"uploads/2021/62c9f839bf.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Okay, Brood X cicadas...  *That's my garlic* you're resting on! The sheer numbers get biblical, but [these young adults won't actually eat our plants.](https://www.bbg.org/news/will_the_cicadas_hurt_your_plants)\n\n\n\n<img src=\"uploads/2021/62c9f839bf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Okay, Brood X cicadas&hellip;  <em>That&rsquo;s my garlic</em> you&rsquo;re resting on! The sheer numbers get biblical, but <a href=\"https://www.bbg.org/news/will_the_cicadas_hurt_your_plants\">these young adults won&rsquo;t actually eat our plants.</a></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/62c9f839bf.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Okay, Brood X cicadas...  *That's my garlic* you're resting on! The sheer numbers get biblical, but [these young adults won't actually eat our plants.](https://www.bbg.org/news/will_the_cicadas_hurt_your_plants)\n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/62c9f839bf.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-21T10:08:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/05/21/okay-brood-x.html",
 				"tags": ["good to know"]
@@ -617,8 +633,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/05/19/brood-x-periodic.html",
 				
-				"content_html": "<p>Brood X periodic cicada hanging out on my back patio after 17 years underground. I think they are both cool, and creepy.  And they fly quite slowly: no wonder the birds love them!</p>\n\n<p><img src=\"uploads/2021/0c65288271.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Brood X periodic cicada hanging out on my back patio after 17 years underground. I think they are both cool, and creepy.  And they fly quite slowly: no wonder the birds love them!\n\n<img src=\"uploads/2021/0c65288271.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Brood X periodic cicada hanging out on my back patio after 17 years underground. I think they are both cool, and creepy.  And they fly quite slowly: no wonder the birds love them!</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/0c65288271.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Brood X periodic cicada hanging out on my back patio after 17 years underground. I think they are both cool, and creepy.  And they fly quite slowly: no wonder the birds love them!\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/0c65288271.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-19T13:49:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/05/19/brood-x-periodic.html",
 				"tags": ["why not","hmmm"]
@@ -634,56 +650,56 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/05/09/full-bloomsouvenir-de.html",
 				
-				"content_html": "<p>Full bloom\n&lsquo;Souvenir de la Malmaison&rsquo;</p>\n\n<p><img src=\"uploads/2021/3986ef66cc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Full bloom\r\n'Souvenir de la Malmaison' \r\n\r\n\n\n<img src=\"uploads/2021/3986ef66cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Full bloom\n&lsquo;Souvenir de la Malmaison&rsquo;</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/3986ef66cc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Full bloom\r\n'Souvenir de la Malmaison' \r\n\r\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/3986ef66cc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-09T20:17:40-04:00",
 				"url": "https://annahavron.micro.blog/2021/05/09/full-bloomsouvenir-de.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/05/09/raindrops-on-roses.html",
 				
-				"content_html": "<p>Raindrops on roses</p>\n\n<p><img src=\"uploads/2021/e0446d9fb9.jpg\" width=\"554\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Raindrops on roses\n\n<img src=\"uploads/2021/e0446d9fb9.jpg\" width=\"554\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Raindrops on roses</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/e0446d9fb9.jpg\" width=\"554\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Raindrops on roses\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/e0446d9fb9.jpg\" width=\"554\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-09T17:47:28-04:00",
 				"url": "https://annahavron.micro.blog/2021/05/09/raindrops-on-roses.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/04/29/brood-x-cicada.html",
 				
-				"content_html": "<p>Brood X cicada burrows - the red ant in the upper left is on the edge of one, and there is another burrow in the lower right of the photo. Any day now!</p>\n\n<p><img src=\"uploads/2021/8750536db1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Brood X cicada burrows - the red ant in the upper left is on the edge of one, and there is another burrow in the lower right of the photo. Any day now!\r\n\r\n\n\n<img src=\"uploads/2021/8750536db1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Brood X cicada burrows - the red ant in the upper left is on the edge of one, and there is another burrow in the lower right of the photo. Any day now!</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/8750536db1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Brood X cicada burrows - the red ant in the upper left is on the edge of one, and there is another burrow in the lower right of the photo. Any day now!\r\n\r\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/8750536db1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-04-29T17:43:19-04:00",
 				"url": "https://annahavron.micro.blog/2021/04/29/brood-x-cicada.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/04/12/more-signs-of.html",
 				
-				"content_html": "<p>More signs of spring: bluebells and ramps!</p>\n\n<p><img src=\"uploads/2021/d3f4dc03fc.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/2208369a59.jpg\" width=\"492\" height=\"480\" alt=\"\" /></p>\n",
-				"content_text": "More signs of spring: bluebells and ramps!\n\n<img src=\"uploads/2021/d3f4dc03fc.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2021/2208369a59.jpg\" width=\"492\" height=\"480\" alt=\"\" />\n",
+				"content_html": "<p>More signs of spring: bluebells and ramps!</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/d3f4dc03fc.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/2208369a59.jpg\" width=\"492\" height=\"480\" alt=\"\" /></p>\n",
+				"content_text": "More signs of spring: bluebells and ramps!\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/d3f4dc03fc.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/2208369a59.jpg\" width=\"492\" height=\"480\" alt=\"\" />\n",
 				"date_published": "2021-04-12T09:12:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/04/12/more-signs-of.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/03/31/and-here-is.html",
 				
-				"content_html": "<p>Cherry tree &ndash; peak bloom, today!</p>\n\n<p><img src=\"uploads/2021/fb46409e90.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Cherry tree -- peak bloom, today!\n\n\n\n<img src=\"uploads/2021/fb46409e90.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Cherry tree &ndash; peak bloom, today!</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/fb46409e90.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Cherry tree -- peak bloom, today!\n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/fb46409e90.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-31T09:03:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/03/31/and-here-is.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/03/31/it-fascinates-me.html",
 				
-				"content_html": "<p>It fascinates me that cherry blossoms fall as whole blossoms.</p>\n\n<p><img src=\"uploads/2021/7d9dedf0ee.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "It fascinates me that cherry blossoms fall as whole blossoms.\n\n\n\n\n<img src=\"uploads/2021/7d9dedf0ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>It fascinates me that cherry blossoms fall as whole blossoms.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/7d9dedf0ee.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "It fascinates me that cherry blossoms fall as whole blossoms.\n\n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/7d9dedf0ee.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-03-31T09:01:55-04:00",
 				"url": "https://annahavron.micro.blog/2021/03/31/it-fascinates-me.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/03/26/today-i-came.html",
 				
-				"content_html": "<p>Today I came upon the well-ordered hamlet of Spoonville.</p>\n\n<p><img src=\"uploads/2021/75518ecded.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/4be9e251ab.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/8f5249012a.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Today I came upon the well-ordered hamlet of Spoonville.\n\n<img src=\"uploads/2021/75518ecded.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2021/4be9e251ab.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2021/8f5249012a.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Today I came upon the well-ordered hamlet of Spoonville.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/75518ecded.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/4be9e251ab.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/8f5249012a.jpg\" width=\"484\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Today I came upon the well-ordered hamlet of Spoonville.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/75518ecded.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/4be9e251ab.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/8f5249012a.jpg\" width=\"484\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-26T12:40:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/03/26/today-i-came.html",
 				"tags": ["why not"]
@@ -717,8 +733,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/03/13/at-last.html",
 				
-				"content_html": "<p>At last.</p>\n\n<p><img src=\"uploads/2021/d0bf111e43.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "At last.\r\n\r\n\n\n<img src=\"uploads/2021/d0bf111e43.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>At last.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/d0bf111e43.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At last.\r\n\r\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/d0bf111e43.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-13T14:29:31-04:00",
 				"url": "https://annahavron.micro.blog/2021/03/13/at-last.html"
 			},
@@ -734,8 +750,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/03/02/awareness-acceptance-exploration.html",
 				"title": "\"Awareness, Acceptance, Exploration...\" in a cell phone picture",
-				"content_html": "<p>Just took a marvelous online workshop from <a href=\"https://goodhartphotographyva.com/\">Goodhart Photography</a> called &lsquo;Photography for Wellbeing.&rdquo; I learned a mindfulness practice for taking photos.</p>\n\n<p>This is a home-made wind bell we got at a farmstand near our favorite beach. It shattered in a windstorm years ago, but I couldn&rsquo;t bear to get rid of it. (And yes, it still rings nicely.)</p>\n\n<p>I feel like it just said &ldquo;thanks.&rdquo;</p>\n\n<p><img src=\"uploads/2021/8829fc7f8e.jpg\" width=\"268\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Just took a marvelous online workshop from [Goodhart Photography](https://goodhartphotographyva.com/) called 'Photography for Wellbeing.\" I learned a mindfulness practice for taking photos. \r\n\r\nThis is a home-made wind bell we got at a farmstand near our favorite beach. It shattered in a windstorm years ago, but I couldn't bear to get rid of it. (And yes, it still rings nicely.)\r\n\r\nI feel like it just said \"thanks.\" \r\n\r\n\n\n<img src=\"uploads/2021/8829fc7f8e.jpg\" width=\"268\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Just took a marvelous online workshop from <a href=\"https://goodhartphotographyva.com/\">Goodhart Photography</a> called &lsquo;Photography for Wellbeing.&rdquo; I learned a mindfulness practice for taking photos.</p>\n\n<p>This is a home-made wind bell we got at a farmstand near our favorite beach. It shattered in a windstorm years ago, but I couldn&rsquo;t bear to get rid of it. (And yes, it still rings nicely.)</p>\n\n<p>I feel like it just said &ldquo;thanks.&rdquo;</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/8829fc7f8e.jpg\" width=\"268\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just took a marvelous online workshop from [Goodhart Photography](https://goodhartphotographyva.com/) called 'Photography for Wellbeing.\" I learned a mindfulness practice for taking photos. \r\n\r\nThis is a home-made wind bell we got at a farmstand near our favorite beach. It shattered in a windstorm years ago, but I couldn't bear to get rid of it. (And yes, it still rings nicely.)\r\n\r\nI feel like it just said \"thanks.\" \r\n\r\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/8829fc7f8e.jpg\" width=\"268\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-03-02T13:19:44-04:00",
 				"url": "https://annahavron.micro.blog/2021/03/02/awareness-acceptance-exploration.html"
 			},
@@ -768,16 +784,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/02/11/machine-february-photoblogging.html",
 				
-				"content_html": "<p>Machine <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February photoblogging</a></p>\n\n<p>This machine reminds me of <a href=\"https://ushistoryscene.com/article/woody-guthrie/\">this other machine</a>.</p>\n\n<p><img src=\"uploads/2021/3ccf738d8f.jpg\" width=\"450\" height=\"600\" alt=\"photo of old guitar\" /></p>\n",
-				"content_text": "Machine [February photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\r\n\r\nThis machine reminds me of [this other machine](https://ushistoryscene.com/article/woody-guthrie/).\r\n\r\n\n\n<img src=\"uploads/2021/3ccf738d8f.jpg\" width=\"450\" height=\"600\" alt=\"photo of old guitar\" />\n",
+				"content_html": "<p>Machine <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February photoblogging</a></p>\n\n<p>This machine reminds me of <a href=\"https://ushistoryscene.com/article/woody-guthrie/\">this other machine</a>.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/3ccf738d8f.jpg\" width=\"450\" height=\"600\" alt=\"photo of old guitar\" /></p>\n",
+				"content_text": "Machine [February photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\r\n\r\nThis machine reminds me of [this other machine](https://ushistoryscene.com/article/woody-guthrie/).\r\n\r\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/3ccf738d8f.jpg\" width=\"450\" height=\"600\" alt=\"photo of old guitar\" />\n",
 				"date_published": "2021-02-11T13:54:24-04:00",
 				"url": "https://annahavron.micro.blog/2021/02/11/machine-february-photoblogging.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2021/02/10/193606.html",
 				
-				"content_html": "<p>energy <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February photoblogging</a></p>\n\n<p>The Tablecloth Monster returns. And yes: she pulls it all down. Oh, yes.</p>\n\n<p><img src=\"uploads/2021/d350c9adb2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "energy [February photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\n\nThe Tablecloth Monster returns. And yes: she pulls it all down. Oh, yes.\n\n<img src=\"uploads/2021/d350c9adb2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>energy <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February photoblogging</a></p>\n\n<p>The Tablecloth Monster returns. And yes: she pulls it all down. Oh, yes.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/d350c9adb2.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "energy [February photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\n\nThe Tablecloth Monster returns. And yes: she pulls it all down. Oh, yes.\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/d350c9adb2.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-10T20:36:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/02/10/193606.html",
 				"tags": ["I like cats"]
@@ -785,8 +801,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/02/09/the-office-cats.html",
 				
-				"content_html": "<p>The Office Cats are in.  They love these <a href=\"https://www.thecatball.com/\">cat ball beds.</a> Especially because I put them next to the radiator.</p>\n\n<p><img src=\"uploads/2021/9da7a37fab.jpg\" width=\"600\" height=\"435\" alt=\"\" /></p>\n",
-				"content_text": "The Office Cats are in.  They love these [cat ball beds.](https://www.thecatball.com/) Especially because I put them next to the radiator.\n\n\n\n<img src=\"uploads/2021/9da7a37fab.jpg\" width=\"600\" height=\"435\" alt=\"\" />\n",
+				"content_html": "<p>The Office Cats are in.  They love these <a href=\"https://www.thecatball.com/\">cat ball beds.</a> Especially because I put them next to the radiator.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/9da7a37fab.jpg\" width=\"600\" height=\"435\" alt=\"\" /></p>\n",
+				"content_text": "The Office Cats are in.  They love these [cat ball beds.](https://www.thecatball.com/) Especially because I put them next to the radiator.\n\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/9da7a37fab.jpg\" width=\"600\" height=\"435\" alt=\"\" />\n",
 				"date_published": "2021-02-09T11:52:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/02/09/the-office-cats.html",
 				"tags": ["I like cats"]
@@ -794,8 +810,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/02/09/muddy-february-photoblogging.html",
 				
-				"content_html": "<p>muddy <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February photoblogging</a></p>\n\n<p>This is muddy&hellip;. raw, and cooked.</p>\n\n<p><img src=\"uploads/2021/e236116542.jpg\" width=\"600\" height=\"568\" alt=\"\" /></p>\n",
-				"content_text": "muddy [February photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\r\n\r\nThis is muddy.... raw, and cooked. \r\n\r\n\n\n<img src=\"uploads/2021/e236116542.jpg\" width=\"600\" height=\"568\" alt=\"\" />\n",
+				"content_html": "<p>muddy <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February photoblogging</a></p>\n\n<p>This is muddy&hellip;. raw, and cooked.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/e236116542.jpg\" width=\"600\" height=\"568\" alt=\"\" /></p>\n",
+				"content_text": "muddy [February photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\r\n\r\nThis is muddy.... raw, and cooked. \r\n\r\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/e236116542.jpg\" width=\"600\" height=\"568\" alt=\"\" />\n",
 				"date_published": "2021-02-09T11:48:43-04:00",
 				"url": "https://annahavron.micro.blog/2021/02/09/muddy-february-photoblogging.html"
 			},
@@ -810,8 +826,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/02/02/morning-beverage-february.html",
 				
-				"content_html": "<p>Morning Beverage <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February Photoblogging</a></p>\n\n<p>Coffee + journaling, first thing every morning.  &hellip;Okay, after I feed the cats.</p>\n\n<p><img src=\"uploads/2021/1161e580be.jpg\" width=\"592\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Morning Beverage [February Photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\n\nCoffee + journaling, first thing every morning.  ...Okay, after I feed the cats.\n\n\n<img src=\"uploads/2021/1161e580be.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Morning Beverage <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February Photoblogging</a></p>\n\n<p>Coffee + journaling, first thing every morning.  &hellip;Okay, after I feed the cats.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/1161e580be.jpg\" width=\"592\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Morning Beverage [February Photoblogging](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\n\nCoffee + journaling, first thing every morning.  ...Okay, after I feed the cats.\n\n\n<img src=\"https://annahavron.micro.blog/uploads/2021/1161e580be.jpg\" width=\"592\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-02T09:13:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/02/02/morning-beverage-february.html",
 				"tags": ["I like cats","coffee hour"]
@@ -819,8 +835,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/02/01/close-up-february.html",
 				
-				"content_html": "<p>Close up <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February Photoblogging Challenge</a></p>\n\n<p>Vintage rocker blotter.</p>\n\n<p><img src=\"uploads/2021/489c9dc745.jpg\" width=\"579\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Close up [February Photoblogging Challenge](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\r\n\r\nVintage rocker blotter. \n\n<img src=\"uploads/2021/489c9dc745.jpg\" width=\"579\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Close up <a href=\"https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html\">February Photoblogging Challenge</a></p>\n\n<p>Vintage rocker blotter.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/489c9dc745.jpg\" width=\"579\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Close up [February Photoblogging Challenge](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html)\r\n\r\nVintage rocker blotter. \n\n<img src=\"https://annahavron.micro.blog/uploads/2021/489c9dc745.jpg\" width=\"579\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-01T18:14:37-04:00",
 				"url": "https://annahavron.micro.blog/2021/02/01/close-up-february.html"
 			},
@@ -923,8 +939,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2021/01/02/new-years-day.html",
 				
-				"content_html": "<p>New Year&rsquo;s Day began with a moment of peace, before the black and white one realized she was being <em>snuggled</em>, and left in a huff.</p>\n\n<p><img src=\"uploads/2021/4475624a0f.jpg\" width=\"472\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "New Year's Day began with a moment of peace, before the black and white one realized she was being _snuggled_, and left in a huff. \n\n<img src=\"uploads/2021/4475624a0f.jpg\" width=\"472\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>New Year&rsquo;s Day began with a moment of peace, before the black and white one realized she was being <em>snuggled</em>, and left in a huff.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2021/4475624a0f.jpg\" width=\"472\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "New Year's Day began with a moment of peace, before the black and white one realized she was being _snuggled_, and left in a huff. \n\n<img src=\"https://annahavron.micro.blog/uploads/2021/4475624a0f.jpg\" width=\"472\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-02T13:00:00-04:00",
 				"url": "https://annahavron.micro.blog/2021/01/02/new-years-day.html",
 				"tags": ["I like cats"]
@@ -940,8 +956,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2020/12/29/that-about-sums.html",
 				
-				"content_html": "<p>That about sums it up.</p>\n\n<p><img src=\"uploads/2020/36bc8f1154.jpg\" width=\"456\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "That about sums it up. \n\n\n<img src=\"uploads/2020/36bc8f1154.jpg\" width=\"456\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>That about sums it up.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/36bc8f1154.jpg\" width=\"456\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "That about sums it up. \n\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/36bc8f1154.jpg\" width=\"456\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-29T12:27:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/29/that-about-sums.html",
 				"tags": ["good to know"]
@@ -974,8 +990,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/for-the-first.html",
 				"title": "Year in Review, March 2020: the Catio",
-				"content_html": "<p>For the first time, I&rsquo;m doing a yearly review using this <a href=\"https://nesslabs.com/year-in-review\">template from Ness Labs</a>. However, I&rsquo;d like to do a photographic year in review, right here. Let&rsquo;s start with Posey, who is on our screened-in porch, now known as the &ldquo;catio.&rdquo; This is early spring, 2020, ten days before our state issued a stay-at-home order for the pandemic.</p>\n\n<p><img src=\"uploads/2020/3f28799570.jpg\" width=\"492\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "For the first time, I'm doing a yearly review using this [template from Ness Labs] (https://nesslabs.com/year-in-review). However, I'd like to do a photographic year in review, right here. Let's start with Posey, who is on our screened-in porch, now known as the \"catio.\" This is early spring, 2020, ten days before our state issued a stay-at-home order for the pandemic.\n\n<img src=\"uploads/2020/3f28799570.jpg\" width=\"492\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>For the first time, I&rsquo;m doing a yearly review using this <a href=\"https://nesslabs.com/year-in-review\">template from Ness Labs</a>. However, I&rsquo;d like to do a photographic year in review, right here. Let&rsquo;s start with Posey, who is on our screened-in porch, now known as the &ldquo;catio.&rdquo; This is early spring, 2020, ten days before our state issued a stay-at-home order for the pandemic.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/3f28799570.jpg\" width=\"492\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "For the first time, I'm doing a yearly review using this [template from Ness Labs] (https://nesslabs.com/year-in-review). However, I'd like to do a photographic year in review, right here. Let's start with Posey, who is on our screened-in porch, now known as the \"catio.\" This is early spring, 2020, ten days before our state issued a stay-at-home order for the pandemic.\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/3f28799570.jpg\" width=\"492\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T16:08:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/for-the-first.html",
 				"tags": ["I like cats"]
@@ -983,8 +999,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/one-month-later.html",
 				"title": "Year in Review, April 2020: We Succeed in Doubling Household Cat Census, but Fail Miserably at Sourdough ",
-				"content_html": "<p>One month later, we adopted Beans, the nervous fellow in the box below. And yes, besides adopting a pet, I tried another pandemic cliche: baking sourdough. (My dough did not rise. It sank. I learned to make sauerkraut and pickles instead.) Beans hid under a bed for two weeks.</p>\n\n<p><img src=\"uploads/2020/4b5a42f092.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "One month later, we adopted Beans, the nervous fellow in the box below. And yes, besides adopting a pet, I tried another pandemic cliche: baking sourdough. (My dough did not rise. It sank. I learned to make sauerkraut and pickles instead.) Beans hid under a bed for two weeks.\n\n<img src=\"uploads/2020/4b5a42f092.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>One month later, we adopted Beans, the nervous fellow in the box below. And yes, besides adopting a pet, I tried another pandemic cliche: baking sourdough. (My dough did not rise. It sank. I learned to make sauerkraut and pickles instead.) Beans hid under a bed for two weeks.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/4b5a42f092.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "One month later, we adopted Beans, the nervous fellow in the box below. And yes, besides adopting a pet, I tried another pandemic cliche: baking sourdough. (My dough did not rise. It sank. I learned to make sauerkraut and pickles instead.) Beans hid under a bed for two weeks.\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/4b5a42f092.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T16:06:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/one-month-later.html",
 				"tags": ["I like cats"]
@@ -992,48 +1008,48 @@
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/my-daughter-moved.html",
 				"title": "Year in Review, April 2020: Birds and Bluebells",
-				"content_html": "<p>Our daughter moved back home with us to attend grad school. On this day we walked at a retreat center on the Shenandoah River. Virginia bluebells in the foreground; in the background, I like to think those waterbirds with the brown heads are canvasback ducks, since it was migration season. Love <a href=\"https://merlin.allaboutbirds.org/\">this bird ID app</a>.</p>\n\n<p><img src=\"uploads/2020/725ddeeb26.jpg\" width=\"600\" height=\"708\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2020/de979b9a89.jpg\" width=\"434\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Our daughter moved back home with us to attend grad school. On this day we walked at a retreat center on the Shenandoah River. Virginia bluebells in the foreground; in the background, I like to think those waterbirds with the brown heads are canvasback ducks, since it was migration season. Love [this bird ID app] (https://merlin.allaboutbirds.org/). \n\n<img src=\"uploads/2020/725ddeeb26.jpg\" width=\"600\" height=\"708\" alt=\"\" />\n\n<img src=\"uploads/2020/de979b9a89.jpg\" width=\"434\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Our daughter moved back home with us to attend grad school. On this day we walked at a retreat center on the Shenandoah River. Virginia bluebells in the foreground; in the background, I like to think those waterbirds with the brown heads are canvasback ducks, since it was migration season. Love <a href=\"https://merlin.allaboutbirds.org/\">this bird ID app</a>.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/725ddeeb26.jpg\" width=\"600\" height=\"708\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/de979b9a89.jpg\" width=\"434\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Our daughter moved back home with us to attend grad school. On this day we walked at a retreat center on the Shenandoah River. Virginia bluebells in the foreground; in the background, I like to think those waterbirds with the brown heads are canvasback ducks, since it was migration season. Love [this bird ID app] (https://merlin.allaboutbirds.org/). \n\n<img src=\"https://annahavron.micro.blog/uploads/2020/725ddeeb26.jpg\" width=\"600\" height=\"708\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/de979b9a89.jpg\" width=\"434\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T16:04:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/my-daughter-moved.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/the-hydrangeas-decided.html",
 				"title": "Year in Review, May 2020: Had to Cancel Spring Vacation, Garden Tries to Compensate",
-				"content_html": "<p>The hydrangeas decided to be all the colors this year.</p>\n\n<p><img src=\"uploads/2020/d586181d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The hydrangeas decided to be all the colors this year. \n\n<img src=\"uploads/2020/d586181d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The hydrangeas decided to be all the colors this year.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/d586181d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The hydrangeas decided to be all the colors this year. \n\n<img src=\"https://annahavron.micro.blog/uploads/2020/d586181d2e.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T16:02:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/the-hydrangeas-decided.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/year-in-review.html",
 				"title": "Year in Review, June 2020: Mass Mantis Transportation",
-				"content_html": "<p>So when we screened in the catio last summer, we <em>neglected to notice</em> the <a href=\"https://www.almanac.com/praying-mantis-predator-garden\">praying mantis</a> egg case <em>inside</em> the porch. Luckily, our daughter used to work at an entomology lab. Here is my heroic family moving 300 or so mantids to the garden. We kept finding mantises for the rest of the summer; and they too got ferried to the yard.</p>\n\n<p><img src=\"uploads/2020/e47eb4e390.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2020/5a1d9e34d4.jpg\" width=\"600\" height=\"757\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2020/ec880c9c5b.jpg\" width=\"578\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "So when we screened in the catio last summer, we _neglected to notice_ the [praying mantis] (https://www.almanac.com/praying-mantis-predator-garden) egg case _inside_ the porch. Luckily, our daughter used to work at an entomology lab. Here is my heroic family moving 300 or so mantids to the garden. We kept finding mantises for the rest of the summer; and they too got ferried to the yard. \n\n<img src=\"uploads/2020/e47eb4e390.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\n<img src=\"uploads/2020/5a1d9e34d4.jpg\" width=\"600\" height=\"757\" alt=\"\" />\n\n<img src=\"uploads/2020/ec880c9c5b.jpg\" width=\"578\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>So when we screened in the catio last summer, we <em>neglected to notice</em> the <a href=\"https://www.almanac.com/praying-mantis-predator-garden\">praying mantis</a> egg case <em>inside</em> the porch. Luckily, our daughter used to work at an entomology lab. Here is my heroic family moving 300 or so mantids to the garden. We kept finding mantises for the rest of the summer; and they too got ferried to the yard.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/e47eb4e390.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/5a1d9e34d4.jpg\" width=\"600\" height=\"757\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/ec880c9c5b.jpg\" width=\"578\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "So when we screened in the catio last summer, we _neglected to notice_ the [praying mantis] (https://www.almanac.com/praying-mantis-predator-garden) egg case _inside_ the porch. Luckily, our daughter used to work at an entomology lab. Here is my heroic family moving 300 or so mantids to the garden. We kept finding mantises for the rest of the summer; and they too got ferried to the yard. \n\n<img src=\"https://annahavron.micro.blog/uploads/2020/e47eb4e390.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/5a1d9e34d4.jpg\" width=\"600\" height=\"757\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/ec880c9c5b.jpg\" width=\"578\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T16:00:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/year-in-review.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/vacation-in-late.html",
 				"title": "Year in Review, August 2020: At the Beach, Even the Clouds Made Waves",
-				"content_html": "<p>Vacation in late August, to a quiet beach cottage. This was one of the strangest cloud formations I&rsquo;ve ever seen. Maybe it was <a href=\"https://www.surfertoday.com/environment/kelvin-helmholtz-the-clouds-that-look-like-breaking-waves\">this phenomenon</a>.</p>\n\n<p><img src=\"uploads/2020/e7c9873823.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Vacation in late August, to a quiet beach cottage. This was one of the strangest cloud formations I've ever seen. Maybe it was [this phenomenon] (https://www.surfertoday.com/environment/kelvin-helmholtz-the-clouds-that-look-like-breaking-waves).\n\n<img src=\"uploads/2020/e7c9873823.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Vacation in late August, to a quiet beach cottage. This was one of the strangest cloud formations I&rsquo;ve ever seen. Maybe it was <a href=\"https://www.surfertoday.com/environment/kelvin-helmholtz-the-clouds-that-look-like-breaking-waves\">this phenomenon</a>.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/e7c9873823.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Vacation in late August, to a quiet beach cottage. This was one of the strangest cloud formations I've ever seen. Maybe it was [this phenomenon] (https://www.surfertoday.com/environment/kelvin-helmholtz-the-clouds-that-look-like-breaking-waves).\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/e7c9873823.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-20T15:58:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/vacation-in-late.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/gingko-grove-at.html",
 				"title": "Year in Review, October 2020: Had to Cancel Family Visits, But at Least the Trees Were Beautiful",
-				"content_html": "<p>Gingko grove at arboretum; trees in front of our house. We had a <a href=\"https://www.syracuse.com/opinion/2020/11/editorial-cartoons-for-nov-29-2020-happy-zoomsgiving.html\">three-hour Zoomsgiving</a>.</p>\n\n<p><img src=\"uploads/2020/8ce0e0543f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2020/566aaeb017.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Gingko grove at arboretum; trees in front of our house. We had a [three-hour Zoomsgiving] (https://www.syracuse.com/opinion/2020/11/editorial-cartoons-for-nov-29-2020-happy-zoomsgiving.html). \n\n<img src=\"uploads/2020/8ce0e0543f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<img src=\"uploads/2020/566aaeb017.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Gingko grove at arboretum; trees in front of our house. We had a <a href=\"https://www.syracuse.com/opinion/2020/11/editorial-cartoons-for-nov-29-2020-happy-zoomsgiving.html\">three-hour Zoomsgiving</a>.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/8ce0e0543f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/566aaeb017.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Gingko grove at arboretum; trees in front of our house. We had a [three-hour Zoomsgiving] (https://www.syracuse.com/opinion/2020/11/editorial-cartoons-for-nov-29-2020-happy-zoomsgiving.html). \n\n<img src=\"https://annahavron.micro.blog/uploads/2020/8ce0e0543f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/566aaeb017.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T15:57:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/gingko-grove-at.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/beans-eventually-came.html",
 				"title": "Year in Review, November 2020: Beans Tries All the Beds",
-				"content_html": "<p>Beans eventually came out from under the humans&rsquo; bed and tried to share a cat bed with Posey. She kicked him out, and he had to go to his own.</p>\n\n<p><img src=\"uploads/2020/ed23734b3a.jpg\" width=\"600\" height=\"385\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2020/89e1fe61a4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Beans eventually came out from under the humans' bed and tried to share a cat bed with Posey. She kicked him out, and he had to go to his own. \n\n<img src=\"uploads/2020/ed23734b3a.jpg\" width=\"600\" height=\"385\" alt=\"\" />\n\n<img src=\"uploads/2020/89e1fe61a4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Beans eventually came out from under the humans&rsquo; bed and tried to share a cat bed with Posey. She kicked him out, and he had to go to his own.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/ed23734b3a.jpg\" width=\"600\" height=\"385\" alt=\"\" /></p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/89e1fe61a4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Beans eventually came out from under the humans' bed and tried to share a cat bed with Posey. She kicked him out, and he had to go to his own. \n\n<img src=\"https://annahavron.micro.blog/uploads/2020/ed23734b3a.jpg\" width=\"600\" height=\"385\" alt=\"\" />\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/89e1fe61a4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T15:56:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/beans-eventually-came.html",
 				"tags": ["I like cats"]
@@ -1041,8 +1057,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2020/12/20/posey-is-crushing.html",
 				"title": "Year in Review, December 2020: Dear Family, Please Don't Blame the Post Office...",
-				"content_html": "<p>&hellip;when you open your Christmas boxes. In the red tote, we have Posey hunkering down to thoroughly crush the ribbons and bows. In the foreground, we have Beans activating claw mode to slice some paper. This is why we (still) can&rsquo;t have nice things.</p>\n\n<p><img src=\"uploads/2020/0fdf245654.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "...when you open your Christmas boxes. In the red tote, we have Posey hunkering down to thoroughly crush the ribbons and bows. In the foreground, we have Beans activating claw mode to slice some paper. This is why we (still) can't have nice things.\n\n<img src=\"uploads/2020/0fdf245654.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&hellip;when you open your Christmas boxes. In the red tote, we have Posey hunkering down to thoroughly crush the ribbons and bows. In the foreground, we have Beans activating claw mode to slice some paper. This is why we (still) can&rsquo;t have nice things.</p>\n\n<p><img src=\"https://annahavron.micro.blog/uploads/2020/0fdf245654.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "...when you open your Christmas boxes. In the red tote, we have Posey hunkering down to thoroughly crush the ribbons and bows. In the foreground, we have Beans activating claw mode to slice some paper. This is why we (still) can't have nice things.\n\n<img src=\"https://annahavron.micro.blog/uploads/2020/0fdf245654.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-12-20T15:52:00-04:00",
 				"url": "https://annahavron.micro.blog/2020/12/20/posey-is-crushing.html",
 				"tags": ["I like cats"]
