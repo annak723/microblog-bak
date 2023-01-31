@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2023/01/28/birdwatching.html",
+				
+				"content_html": "<p>Birdwatching. Happy Caturday. 🐈</p>\n\n<p><img src=\"uploads/2023/6cab15a693.jpg\" width=\"600\" height=\"511\" alt=\"alert cat sitting on a windowsill, looking upward\" /></p>\n",
+				"content_text": "Birdwatching. Happy Caturday. 🐈\n\n<img src=\"uploads/2023/6cab15a693.jpg\" width=\"600\" height=\"511\" alt=\"alert cat sitting on a windowsill, looking upward\" />\n",
+				"date_published": "2023-01-28T11:00:00-05:00",
+				"url": "https://annarama.net/2023/01/28/birdwatching.html",
+				"tags": ["I like cats"]
+			},
+			{
+				"id": "http://annahavron.micro.blog/2023/01/27/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593329535\">The Perfectionist&rsquo;s Guide to Losing Control</a> by Katherine Morgan Schafler 📚 Really a book about cultivating excellence, from a psychotherapist who draws on some fascinating academic studies. Eye-opening and encouraging.</p>\n",
+				"content_text": "Currently reading: [The Perfectionist's Guide to Losing Control](https://micro.blog/books/9780593329535) by Katherine Morgan Schafler 📚 Really a book about cultivating excellence, from a psychotherapist who draws on some fascinating academic studies. Eye-opening and encouraging. \n",
+				"date_published": "2023-01-27T09:48:49-05:00",
+				"url": "https://annarama.net/2023/01/27/currently-reading-the.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2023/01/20/use-ceremonial-actions.html",
 				
 				"content_html": "<p>Use Ceremonial Actions to Prepare Yourself for Change <a href=\"https://www.annahavron.com/blog/use-ceremonial-actions-to-prepare-yourself-for-change\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2023/064f634611.jpg\" width=\"600\" height=\"348\" alt=\"mallet and meditation chime resting on a table\" /></p>\n\n<p>Tap into the power of ceremonial actions for making life changes.</p>\n",
