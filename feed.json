@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2023/02/11/two-months-ago.html",
+				
+				"content_html": "<p>Two months ago, we planned to recycle this box; but occupants continue to occupy it. Happy Caturday. 🐈</p>\n\n<p><img src=\"uploads/2023/e5734501bc.jpg\" width=\"600\" height=\"483\" alt=\"striped cat dozing in a box on a floor next to a bookshelf\" /></p>\n",
+				"content_text": "Two months ago, we planned to recycle this box; but occupants continue to occupy it. Happy Caturday. 🐈\n\n<img src=\"uploads/2023/e5734501bc.jpg\" width=\"600\" height=\"483\" alt=\"striped cat dozing in a box on a floor next to a bookshelf\" />\n",
+				"date_published": "2023-02-11T11:00:00-05:00",
+				"url": "https://annarama.net/2023/02/11/two-months-ago.html",
+				"tags": ["I like cats","works for me"]
+			},
+			{
 				"id": "http://annahavron.micro.blog/2023/02/04/from-the-archives.html",
 				
 				"content_html": "<p>From the archives. My most beloved editor, of blessed memory. Happy Caturday. 🐈</p>\n\n<p><img src=\"uploads/2023/d228baf761.jpg\" width=\"600\" height=\"576\" alt=\"cat sitting on an office chair\" /></p>\n\n<p><a href=\"https://micro.blog/Denny\">@Denny</a> This was before he got his own bed, next to my laptop. (Where was <em>I</em> supposed to sit?)</p>\n",
