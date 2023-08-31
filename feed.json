@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2023/08/31/184205.html",
+				
+				"content_html": "<p><img src=\"uploads/2023/pxl-20230831-183737058.jpg\" width=\"600\" height=\"450\" alt=\"museum sign reading, 'please don't touch the glass, it startles the artifacts'\"></p>\n",
+				"content_text": "<img src=\"uploads/2023/pxl-20230831-183737058.jpg\" width=\"600\" height=\"450\" alt=\"museum sign reading, 'please don't touch the glass, it startles the artifacts'\">\n",
+				"date_published": "2023-08-31T18:42:05-04:00",
+				"url": "https://annarama.net/2023/08/31/184205.html"
+			},
+			{
+				"id": "http://annahavron.micro.blog/2023/08/10/heres-the-deal.html",
+				
+				"content_html": "<p>&ldquo;Here’s the deal. The human soul doesn’t want to be advised or fixed or saved. It simply wants to be witnessed — to be seen, heard and companioned exactly as it is.&rdquo; - <a href=\"https://onbeing.org/blog/the-gift-of-presence-the-perils-of-advice/\">Parker Palmer</a> &ldquo;The Gift of Presence, The Perils of Advice&rdquo;</p>\n",
+				"content_text": "\"Here’s the deal. The human soul doesn’t want to be advised or fixed or saved. It simply wants to be witnessed — to be seen, heard and companioned exactly as it is.\" - [Parker Palmer](https://onbeing.org/blog/the-gift-of-presence-the-perils-of-advice/) \"The Gift of Presence, The Perils of Advice\"\n",
+				"date_published": "2023-08-10T17:04:33-04:00",
+				"url": "https://annarama.net/2023/08/10/heres-the-deal.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2023/08/08/in-the-moment.html",
 				
 				"content_html": "<p>In the Moment <a href=\"https://www.annahavron.com/blog/in-the-moment\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2023/purple-martins-calling-june-2023.jpg\" width=\"600\" height=\"450\" alt=\"purple martins on top of gourd rack, singing\"></p>\n\n<p>Listen.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/07/07/warning-lights-annahavroncom.html",
 				
-				"content_html": "<p>Warning Lights <a href=\"https://www.annahavron.com/blog/warning-lights\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2023/check-engine.jpg\" width=\"600\" height=\"563\" alt=\"cartoon drawing of a brain with a glowing 'check engine' light inside\"></p>\n\n<p>How do I know when I’m losing my mind? Easy. I wrote it down.</p>\n",
-				"content_text": "Warning Lights [annahavron.com](https://www.annahavron.com/blog/warning-lights)\r\n\r\n<img src=\"uploads/2023/check-engine.jpg\" width=\"600\" height=\"563\" alt=\"cartoon drawing of a brain with a glowing 'check engine' light inside\">\r\n\r\nHow do I know when I’m losing my mind? Easy. I wrote it down. \n",
+				"content_html": "<p>Warning Lights <a href=\"https://www.annahavron.com/blog/warning-lights\">annahavron.com</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/check-engine.jpg\" width=\"600\" height=\"563\" alt=\"cartoon drawing of a brain with a glowing 'check engine' light inside\"></p>\n\n<p>How do I know when I’m losing my mind? Easy. I wrote it down.</p>\n",
+				"content_text": "Warning Lights [annahavron.com](https://www.annahavron.com/blog/warning-lights)\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/check-engine.jpg\" width=\"600\" height=\"563\" alt=\"cartoon drawing of a brain with a glowing 'check engine' light inside\">\r\n\r\nHow do I know when I’m losing my mind? Easy. I wrote it down. \n",
 				"date_published": "2023-07-07T09:53:42-04:00",
 				"url": "https://annarama.net/2023/07/07/warning-lights-annahavroncom.html"
 			},
@@ -157,8 +173,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/04/01/grateful-that-the.html",
 				
-				"content_html": "<p>Grateful that the office cats chose to work with me today.\nHappy Caturday. 🐈</p>\n\n<p><img src=\"uploads/2023/13c0461c2e.jpg\" width=\"600\" height=\"430\" alt=\"two cats resting in a cat tree\" /></p>\n",
-				"content_text": "Grateful that the office cats chose to work with me today.\nHappy Caturday. 🐈\n\n<img src=\"uploads/2023/13c0461c2e.jpg\" width=\"600\" height=\"430\" alt=\"two cats resting in a cat tree\" />\n",
+				"content_html": "<p>Grateful that the office cats chose to work with me today.\nHappy Caturday. 🐈</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/13c0461c2e.jpg\" width=\"600\" height=\"430\" alt=\"two cats resting in a cat tree\" /></p>\n",
+				"content_text": "Grateful that the office cats chose to work with me today.\nHappy Caturday. 🐈\n\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/13c0461c2e.jpg\" width=\"600\" height=\"430\" alt=\"two cats resting in a cat tree\" />\n",
 				"date_published": "2023-04-01T13:42:53-04:00",
 				"url": "https://annarama.net/2023/04/01/grateful-that-the.html",
 				"tags": ["I like cats"]
