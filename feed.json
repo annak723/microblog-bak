@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2023/09/15/define-spiritual-annahavroncom.html",
+				
+				"content_html": "<p>Define &ldquo;Spiritual&rdquo; <a href=\"https://www.annahavron.com/blog/blog-post-define-spiritual\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2023/candle.jpg\" width=\"600\" height=\"693\" alt=\"candle flame in votive candle holder with bubbled glass and multiple reflections\"></p>\n\n<p>Notoriously hard to define, but I&rsquo;m trying.</p>\n",
+				"content_text": "Define \"Spiritual\" [annahavron.com](https://www.annahavron.com/blog/blog-post-define-spiritual)\r\n\r\n<img src=\"uploads/2023/candle.jpg\" width=\"600\" height=\"693\" alt=\"candle flame in votive candle holder with bubbled glass and multiple reflections\">\r\n\r\nNotoriously hard to define, but I'm trying.\r\n",
+				"date_published": "2023-09-15T18:24:11-04:00",
+				"url": "https://annarama.net/2023/09/15/define-spiritual-annahavroncom.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2023/08/31/184205.html",
 				
 				"content_html": "<p><img src=\"uploads/2023/pxl-20230831-183737058.jpg\" width=\"600\" height=\"450\" alt=\"museum sign reading, 'please don't touch the glass, it startles the artifacts'\"></p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/07/11/125545.html",
 				
-				"content_html": "<p><img src=\"uploads/2023/i-think-of-you-often.jpg\" width=\"600\" height=\"450\" alt=\"graffiti painted on old brick wall, quote, i think of you often, unquote\"></p>\n",
-				"content_text": "<img src=\"uploads/2023/i-think-of-you-often.jpg\" width=\"600\" height=\"450\" alt=\"graffiti painted on old brick wall, quote, i think of you often, unquote\">\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/i-think-of-you-often.jpg\" width=\"600\" height=\"450\" alt=\"graffiti painted on old brick wall, quote, i think of you often, unquote\"></p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/33765/2023/i-think-of-you-often.jpg\" width=\"600\" height=\"450\" alt=\"graffiti painted on old brick wall, quote, i think of you often, unquote\">\n",
 				"date_published": "2023-07-11T12:55:45-04:00",
 				"url": "https://annarama.net/2023/07/11/125545.html"
 			},
