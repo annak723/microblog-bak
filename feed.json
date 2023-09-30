@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2023/09/30/this-happens-every.html",
+				
+				"content_html": "\n\n<h1 id=\"this-happens-every-year\">This Happens Every Year</h1>\n\n<p>Squirrel cache hickory nut hiding place #1: <em>the flower box</em></p>\n\n<p><img src=\"uploads/2023/flower-box-with-nut-inside-maybe.jpg\" width=\"600\" height=\"637\" alt=\"flower box on a porch with a pile of dirt on the ground\"></p>\n\n<p>Squirrel cache hickory nut hiding place #2: <em>the window sill on the porch</em></p>\n\n<p><img src=\"uploads/2023/hickory-nut-porch-sill.jpg\" width=\"600\" height=\"450\" alt=\"hickory nut placed in full view, on a porch window sill\"></p>\n",
+				"content_text": "# This Happens Every Year\r\n\r\nSquirrel cache hickory nut hiding place #1: *the flower box* \r\n\r\n<img src=\"uploads/2023/flower-box-with-nut-inside-maybe.jpg\" width=\"600\" height=\"637\" alt=\"flower box on a porch with a pile of dirt on the ground\">\r\n\r\nSquirrel cache hickory nut hiding place #2: *the window sill on the porch*\r\n\r\n<img src=\"uploads/2023/hickory-nut-porch-sill.jpg\" width=\"600\" height=\"450\" alt=\"hickory nut placed in full view, on a porch window sill\">\r\n",
+				"date_published": "2023-09-30T12:59:43-04:00",
+				"url": "https://annarama.net/2023/09/30/this-happens-every.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2023/09/15/define-spiritual-annahavroncom.html",
 				
 				"content_html": "<p>Define &ldquo;Spiritual&rdquo; <a href=\"https://www.annahavron.com/blog/blog-post-define-spiritual\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2023/candle.jpg\" width=\"600\" height=\"693\" alt=\"candle flame in votive candle holder with bubbled glass and multiple reflections\"></p>\n\n<p>Notoriously hard to define, but I&rsquo;m trying.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/07/11/problem-screen-blocker.html",
 				
-				"content_html": "<p>Problem 1: screen blocker</p>\n\n<p><img src=\"uploads/2023/the-problem-1.jpg\" width=\"600\" height=\"800\" alt=\"cat sitting on top of laptop, blocking monitor\"></p>\n\n<p>Problem 2: randomized keyboard reprogrammer</p>\n\n<p><img src=\"uploads/2023/the-problem-2.jpg\" width=\"600\" height=\"609\" alt=\"cat standing over split keyboard\"></p>\n\n<p>Solution: give him his own cubicle</p>\n\n<p><img src=\"uploads/2023/the-solution.jpg\" width=\"600\" height=\"450\" alt=\"cat resting in basket, next to laptop and keyboard\"></p>\n",
-				"content_text": "Problem 1: screen blocker\r\n\r\n<img src=\"uploads/2023/the-problem-1.jpg\" width=\"600\" height=\"800\" alt=\"cat sitting on top of laptop, blocking monitor\">\r\n\r\nProblem 2: randomized keyboard reprogrammer\r\n\r\n<img src=\"uploads/2023/the-problem-2.jpg\" width=\"600\" height=\"609\" alt=\"cat standing over split keyboard\">\r\n\r\nSolution: give him his own cubicle\r\n\r\n<img src=\"uploads/2023/the-solution.jpg\" width=\"600\" height=\"450\" alt=\"cat resting in basket, next to laptop and keyboard\">\r\n\r\n\r\n\r\n",
+				"content_html": "<p>Problem 1: screen blocker</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/the-problem-1.jpg\" width=\"600\" height=\"800\" alt=\"cat sitting on top of laptop, blocking monitor\"></p>\n\n<p>Problem 2: randomized keyboard reprogrammer</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/the-problem-2.jpg\" width=\"600\" height=\"609\" alt=\"cat standing over split keyboard\"></p>\n\n<p>Solution: give him his own cubicle</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/the-solution.jpg\" width=\"600\" height=\"450\" alt=\"cat resting in basket, next to laptop and keyboard\"></p>\n",
+				"content_text": "Problem 1: screen blocker\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/the-problem-1.jpg\" width=\"600\" height=\"800\" alt=\"cat sitting on top of laptop, blocking monitor\">\r\n\r\nProblem 2: randomized keyboard reprogrammer\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/the-problem-2.jpg\" width=\"600\" height=\"609\" alt=\"cat standing over split keyboard\">\r\n\r\nSolution: give him his own cubicle\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/the-solution.jpg\" width=\"600\" height=\"450\" alt=\"cat resting in basket, next to laptop and keyboard\">\r\n\r\n\r\n\r\n",
 				"date_published": "2023-07-11T15:11:27-04:00",
 				"url": "https://annarama.net/2023/07/11/problem-screen-blocker.html"
 			},
