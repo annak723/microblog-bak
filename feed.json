@@ -7,10 +7,26 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2023/10/24/autumn.html",
+				
+				"content_html": "<p>Autumn</p>\n\n<p><img src=\"uploads/2023/autumn.jpg\" width=\"600\" height=\"450\" alt=\"sugar maple tree with orange, yellow, and red leaves\"></p>\n",
+				"content_text": "Autumn\r\n\r\n<img src=\"uploads/2023/autumn.jpg\" width=\"600\" height=\"450\" alt=\"sugar maple tree with orange, yellow, and red leaves\">\n",
+				"date_published": "2023-10-24T17:28:39-04:00",
+				"url": "https://annarama.net/2023/10/24/autumn.html"
+			},
+			{
+				"id": "http://annahavron.micro.blog/2023/09/30/i-must-face.html",
+				
+				"content_html": "<p>I must face facts! <em>There is no Closet Organizing Fairy.</em> The giant mess I&rsquo;ve made by pulling everything out of my closet, is still there. <em>Must&hellip; Put Down&hellip; Internet-Connected Device&hellip;</em>  &hellip;in 3, 2,</p>\n",
+				"content_text": "I must face facts! *There is no Closet Organizing Fairy.* The giant mess I've made by pulling everything out of my closet, is still there. *Must... Put Down... Internet-Connected Device...*  ...in 3, 2, \n",
+				"date_published": "2023-09-30T14:02:35-04:00",
+				"url": "https://annarama.net/2023/09/30/i-must-face.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2023/09/30/this-happens-every.html",
 				
-				"content_html": "\n\n<h1 id=\"this-happens-every-year\">This Happens Every Year</h1>\n\n<p>Squirrel cache hickory nut hiding place #1: <em>the flower box</em></p>\n\n<p><img src=\"uploads/2023/flower-box-with-nut-inside-maybe.jpg\" width=\"600\" height=\"637\" alt=\"flower box on a porch with a pile of dirt on the ground\"></p>\n\n<p>Squirrel cache hickory nut hiding place #2: <em>the window sill on the porch</em></p>\n\n<p><img src=\"uploads/2023/hickory-nut-porch-sill.jpg\" width=\"600\" height=\"450\" alt=\"hickory nut placed in full view, on a porch window sill\"></p>\n",
-				"content_text": "# This Happens Every Year\r\n\r\nSquirrel cache hickory nut hiding place #1: *the flower box* \r\n\r\n<img src=\"uploads/2023/flower-box-with-nut-inside-maybe.jpg\" width=\"600\" height=\"637\" alt=\"flower box on a porch with a pile of dirt on the ground\">\r\n\r\nSquirrel cache hickory nut hiding place #2: *the window sill on the porch*\r\n\r\n<img src=\"uploads/2023/hickory-nut-porch-sill.jpg\" width=\"600\" height=\"450\" alt=\"hickory nut placed in full view, on a porch window sill\">\r\n",
+				"content_html": "\n\n<h1 id=\"this-happens-every-year\">This Happens Every Year</h1>\n\n<p>Squirrel cache hickory nut hiding place #1: <em>the flower box on the left</em></p>\n\n<p><img src=\"uploads/2023/flower-box-with-nut-inside-maybe.jpg\" width=\"600\" height=\"637\" alt=\"flower box on a porch with a pile of dirt on the ground\"></p>\n\n<p>Squirrel cache hickory nut hiding place #2: <em>the window sill on the porch</em></p>\n\n<p><img src=\"uploads/2023/hickory-nut-porch-sill.jpg\" width=\"600\" height=\"450\" alt=\"hickory nut placed in full view, on a porch window sill\"></p>\n",
+				"content_text": "# This Happens Every Year\n\nSquirrel cache hickory nut hiding place #1: *the flower box on the left* \n\n<img src=\"uploads/2023/flower-box-with-nut-inside-maybe.jpg\" width=\"600\" height=\"637\" alt=\"flower box on a porch with a pile of dirt on the ground\">\n\nSquirrel cache hickory nut hiding place #2: *the window sill on the porch*\n\n<img src=\"uploads/2023/hickory-nut-porch-sill.jpg\" width=\"600\" height=\"450\" alt=\"hickory nut placed in full view, on a porch window sill\">\n",
 				"date_published": "2023-09-30T12:59:43-04:00",
 				"url": "https://annarama.net/2023/09/30/this-happens-every.html"
 			},
@@ -41,8 +57,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/08/08/in-the-moment.html",
 				
-				"content_html": "<p>In the Moment <a href=\"https://www.annahavron.com/blog/in-the-moment\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2023/purple-martins-calling-june-2023.jpg\" width=\"600\" height=\"450\" alt=\"purple martins on top of gourd rack, singing\"></p>\n\n<p>Listen.</p>\n",
-				"content_text": "In the Moment [annahavron.com](https://www.annahavron.com/blog/in-the-moment)\r\n\r\n<img src=\"uploads/2023/purple-martins-calling-june-2023.jpg\" width=\"600\" height=\"450\" alt=\"purple martins on top of gourd rack, singing\">\r\n\r\nListen.\n",
+				"content_html": "<p>In the Moment <a href=\"https://www.annahavron.com/blog/in-the-moment\">annahavron.com</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/purple-martins-calling-june-2023.jpg\" width=\"600\" height=\"450\" alt=\"purple martins on top of gourd rack, singing\"></p>\n\n<p>Listen.</p>\n",
+				"content_text": "In the Moment [annahavron.com](https://www.annahavron.com/blog/in-the-moment)\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/purple-martins-calling-june-2023.jpg\" width=\"600\" height=\"450\" alt=\"purple martins on top of gourd rack, singing\">\r\n\r\nListen.\n",
 				"date_published": "2023-08-08T18:29:48-04:00",
 				"url": "https://annarama.net/2023/08/08/in-the-moment.html"
 			},
@@ -180,8 +196,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/04/15/occupants-continuing-to.html",
 				
-				"content_html": "<p>Occupants <a href=\"https://annarama.net/2023/02/11/two-months-ago.html\">continuing</a> to <a href=\"https://annarama.net/2023/03/04/occupants-continuing-to.html\">occupy</a> the box I didn&rsquo;t get around to recycling quickly enough, last November.\nHappy Caturday. 🐈</p>\n\n<p><img src=\"uploads/2023/fc3c8fbdbe.jpg\" width=\"600\" height=\"637\" alt=\"one cat lying on top of another cat, in an old box\" /></p>\n",
-				"content_text": "Occupants [continuing](https://annarama.net/2023/02/11/two-months-ago.html) to [occupy](https://annarama.net/2023/03/04/occupants-continuing-to.html) the box I didn't get around to recycling quickly enough, last November.\nHappy Caturday. 🐈\n\n<img src=\"uploads/2023/fc3c8fbdbe.jpg\" width=\"600\" height=\"637\" alt=\"one cat lying on top of another cat, in an old box\" />\n",
+				"content_html": "<p>Occupants <a href=\"https://annarama.net/2023/02/11/two-months-ago.html\">continuing</a> to <a href=\"https://annarama.net/2023/03/04/occupants-continuing-to.html\">occupy</a> the box I didn&rsquo;t get around to recycling quickly enough, last November.\nHappy Caturday. 🐈</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2023/fc3c8fbdbe.jpg\" width=\"600\" height=\"637\" alt=\"one cat lying on top of another cat, in an old box\" /></p>\n",
+				"content_text": "Occupants [continuing](https://annarama.net/2023/02/11/two-months-ago.html) to [occupy](https://annarama.net/2023/03/04/occupants-continuing-to.html) the box I didn't get around to recycling quickly enough, last November.\nHappy Caturday. 🐈\n\n<img src=\"https://cdn.uploads.micro.blog/33765/2023/fc3c8fbdbe.jpg\" width=\"600\" height=\"637\" alt=\"one cat lying on top of another cat, in an old box\" />\n",
 				"date_published": "2023-04-15T08:00:00-04:00",
 				"url": "https://annarama.net/2023/04/15/occupants-continuing-to.html",
 				"tags": ["I like cats","why not","hmmm"]
