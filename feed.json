@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2024/03/05/i-do-believe.html",
+				
+				"content_html": "<p>I do believe my mother has more St. Patrick’s Day decorations than Christmas ones.</p>\n",
+				"content_text": "I do believe my mother has more St. Patrick’s Day decorations than Christmas ones.\n",
+				"date_published": "2024-03-05T17:37:31-05:00",
+				"url": "https://annarama.net/2024/03/05/i-do-believe.html"
+			},
+			{
+				"id": "http://annahavron.micro.blog/2024/02/27/so-we-have.html",
+				
+				"content_html": "<p>So we have to move furniture for an upcoming house repair, and one cat has a massive case of the zoomies, and the other one is hiding.</p>\n",
+				"content_text": "So we have to move furniture for an upcoming house repair, and one cat has a massive case of the zoomies, and the other one is hiding.\n",
+				"date_published": "2024-02-27T20:29:25-05:00",
+				"url": "https://annarama.net/2024/02/27/so-we-have.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2024/02/25/two-kinds-of.html",
 				
 				"content_html": "<p>Two kinds of people: those who can’t focus <em>without</em> music playing, and those who can’t  focus <em>with</em> it. Then, they marry each other.</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2024/02/02/on-getting-over.html",
 				
-				"content_html": "<p>On Getting Over It   <a href=\"https://www.annahavron.com/blog/blog-post-on-getting-over-it\">annahavron.com</a></p>\n\n<p><img src=\"uploads/2024/grief.jpg\" width=\"600\" height=\"303\" alt=\"drawing of three black circles, the same size, first circle has arrows aiming it, second circle, has a little bit of green around it, third circle is surrounded by a field of green with vines beginning to grow from it\"></p>\n\n<p>Never.</p>\n",
-				"content_text": "On Getting Over It   [annahavron.com](https://www.annahavron.com/blog/blog-post-on-getting-over-it)\r\n\r\n<img src=\"uploads/2024/grief.jpg\" width=\"600\" height=\"303\" alt=\"drawing of three black circles, the same size, first circle has arrows aiming it, second circle, has a little bit of green around it, third circle is surrounded by a field of green with vines beginning to grow from it\">\r\n\r\nNever.\n",
+				"content_html": "<p>On Getting Over It   <a href=\"https://www.annahavron.com/blog/blog-post-on-getting-over-it\">annahavron.com</a></p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2024/grief.jpg\" width=\"600\" height=\"303\" alt=\"drawing of three black circles, the same size, first circle has arrows aiming it, second circle, has a little bit of green around it, third circle is surrounded by a field of green with vines beginning to grow from it\"></p>\n\n<p>Never.</p>\n",
+				"content_text": "On Getting Over It   [annahavron.com](https://www.annahavron.com/blog/blog-post-on-getting-over-it)\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/33765/2024/grief.jpg\" width=\"600\" height=\"303\" alt=\"drawing of three black circles, the same size, first circle has arrows aiming it, second circle, has a little bit of green around it, third circle is surrounded by a field of green with vines beginning to grow from it\">\r\n\r\nNever.\n",
 				"date_published": "2024-02-02T17:14:47-05:00",
 				"url": "https://annarama.net/2024/02/02/on-getting-over.html"
 			},
