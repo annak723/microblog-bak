@@ -9,10 +9,11 @@
 			{
 				"id": "http://annahavron.micro.blog/2025/09/12/another-tablecloth-monster-is-interfering.html",
 				
-				"content_html": "<p>Another <a href=\"https://annarama.net/2021/02/10/193606.html\">Tablecloth Monster</a> is interfering with my fall decorating!</p>\n\n<p><img src=\"uploads/2025/tablecloth-monster.jpg\" width=\"600\" height=\"550\" alt=\"\"></p>\n",
-				"content_text": "Another [Tablecloth Monster](https://annarama.net/2021/02/10/193606.html) is interfering with my fall decorating!\n\n\n\n<img src=\"uploads/2025/tablecloth-monster.jpg\" width=\"600\" height=\"550\" alt=\"\">\n",
+				"content_html": "<p>Another <a href=\"https://annarama.net/2021/02/10/193606.html\">Tablecloth Monster</a> is interfering with my fall decorating!</p>\n\n<p><img src=\"uploads/2025/tablecloth-monster.jpg\" alt=\"cat lying possessively on top of a tablecloth that the cat has bunched up under himself\"></p>\n",
+				"content_text": "Another [Tablecloth Monster](https://annarama.net/2021/02/10/193606.html) is interfering with my fall decorating!\n\n<img src=\"uploads/2025/tablecloth-monster.jpg\" alt=\"cat lying possessively on top of a tablecloth that the cat has bunched up under himself\">\n",
 				"date_published": "2025-09-12T09:43:48-04:00",
-				"url": "https://annarama.net/2025/09/12/another-tablecloth-monster-is-interfering.html"
+				"url": "https://annarama.net/2025/09/12/another-tablecloth-monster-is-interfering.html",
+				"tags": ["I like cats"]
 			},
 			{
 				"id": "http://annahavron.micro.blog/2025/08/15/as-a-former-catholic-who.html",
@@ -50,8 +51,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2025/04/15/apple-blossoms-from-a-tree.html",
 				
-				"content_html": "<p>Apple blossoms, from a tree espaliered along an iron fence.</p>\n\n<p><img src=\"uploads/2025/apple-blossoms.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Apple blossoms, from a tree espaliered along an iron fence.\n\n<img src=\"uploads/2025/apple-blossoms.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Apple blossoms, from a tree espaliered along an iron fence.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2025/apple-blossoms.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Apple blossoms, from a tree espaliered along an iron fence.\n\n<img src=\"https://cdn.uploads.micro.blog/33765/2025/apple-blossoms.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-04-15T17:35:11-04:00",
 				"url": "https://annarama.net/2025/04/15/apple-blossoms-from-a-tree.html"
 			},
