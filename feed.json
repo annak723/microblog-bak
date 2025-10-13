@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2025/10/13/we-got-to-see-chris.html",
+				
+				"content_html": "<p>We got to see Chris Thile play mandolin last night. Pure joy.</p>\n",
+				"content_text": "We got to see Chris Thile play mandolin last night. Pure joy. \n",
+				"date_published": "2025-10-13T11:25:23-04:00",
+				"url": "https://annarama.net/2025/10/13/we-got-to-see-chris.html"
+			},
+			{
+				"id": "http://annahavron.micro.blog/2025/10/11/september-october-november-pumpkintide-where.html",
+				
+				"content_html": "<p>September, October, November = Pumpkintide where I live 🍁🥮🎃</p>\n",
+				"content_text": "September, October, November = Pumpkintide where I live 🍁🥮🎃\n",
+				"date_published": "2025-10-11T08:30:42-04:00",
+				"url": "https://annarama.net/2025/10/11/september-october-november-pumpkintide-where.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2025/10/02/ai-musicians-ai-actors-when.html",
 				
 				"content_html": "<p>AI musicians, AI actors, when will the first AI athletes show up?</p>\n",
@@ -940,8 +956,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2023/01/27/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593329535\">The Perfectionist&rsquo;s Guide to Losing Control</a> by Katherine Morgan Schafler 📚 Really a book about cultivating excellence, from a psychotherapist who draws on some fascinating academic studies. Eye-opening and encouraging.</p>\n",
-				"content_text": "Currently reading: [The Perfectionist's Guide to Losing Control](https://micro.blog/books/9780593329535) by Katherine Morgan Schafler 📚 Really a book about cultivating excellence, from a psychotherapist who draws on some fascinating academic studies. Eye-opening and encouraging. \n",
+				"content_html": "<p><img src=\"https://cdn.micro.blog/books/9780593329535/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\"></p>\n\n<p>Currently reading: <a href=\"https://micro.blog/books/9780593329535\">The Perfectionist&rsquo;s Guide to Losing Control</a> by Katherine Morgan Schafler 📚 Really a book about cultivating excellence, from a psychotherapist who draws on some fascinating academic studies. Eye-opening and encouraging.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593329535/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Perfectionist's Guide to Losing Control](https://micro.blog/books/9780593329535) by Katherine Morgan Schafler 📚 Really a book about cultivating excellence, from a psychotherapist who draws on some fascinating academic studies. Eye-opening and encouraging. \n",
 				"date_published": "2023-01-27T10:48:49-04:00",
 				"url": "https://annarama.net/2023/01/27/currently-reading-the.html"
 			},
