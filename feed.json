@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2026/04/23/112833.html",
+				
+				"content_html": "<p><img src=\"uploads/2026/img-5822.jpg\" width=\"548\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "<img src=\"uploads/2026/img-5822.jpg\" width=\"548\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-23T11:28:33-04:00",
+				"url": "https://annarama.net/2026/04/23/112833.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2026/03/19/the-haunted-smart-house-lights.html",
 				
-				"content_html": "<p><a href=\"https://www.annahavron.com/blog/blog-post-haunted-smart-house\">The Haunted Smart House</a>\nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us know how to fix it.</p>\n\n<p><img src=\"uploads/2026/img-5689.jpg\" width=\"600\" height=\"597\" alt=\"\"></p>\n",
-				"content_text": "[The Haunted Smart House](https://www.annahavron.com/blog/blog-post-haunted-smart-house) \nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us know how to fix it. \n\n<img src=\"uploads/2026/img-5689.jpg\" width=\"600\" height=\"597\" alt=\"\">\n",
+				"content_html": "<p><a href=\"https://www.annahavron.com/blog/blog-post-haunted-smart-house\">The Haunted Smart House</a>\nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us knows how to fix it.</p>\n\n<p><img src=\"uploads/2026/img-5689.jpg\"></p>\n",
+				"content_text": "[The Haunted Smart House](https://www.annahavron.com/blog/blog-post-haunted-smart-house) \nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us knows how to fix it.\n\n<img src=\"uploads/2026/img-5689.jpg\">\n",
 				"date_published": "2026-03-19T18:09:35-04:00",
 				"url": "https://annarama.net/2026/03/19/the-haunted-smart-house-lights.html"
 			},
@@ -57,8 +65,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2026/01/31/dinner-guest.html",
 				
-				"content_html": "<p>Dinner guest</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/mourning-dove.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "Dinner guest\n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/mourning-dove.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Dinner guest</p>\n\n<p><img src=\"uploads/2026/mourning-dove.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Dinner guest\n\n<img src=\"uploads/2026/mourning-dove.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-31T17:03:55-04:00",
 				"url": "https://annarama.net/2026/01/31/dinner-guest.html"
 			},
