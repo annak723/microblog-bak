@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2026/09/26/the-difference-between-new-birders.html",
+				
+				"content_html": "<p>&ldquo;The difference between new birders and experienced birders is that experienced birders have misidentified more birds.&rdquo; &ndash; the naturalist and retired park ranger guiding a local bird walk this morning</p>\n",
+				"content_text": "\"The difference between new birders and experienced birders is that experienced birders have misidentified more birds.\" -- the naturalist and retired park ranger guiding a local bird walk this morning \n",
+				"date_published": "2026-09-26T13:15:41-04:00",
+				"url": "https://annarama.net/2026/09/26/the-difference-between-new-birders.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2026/06/14/carriage-step-and-hitching-posts.html",
 				
 				"content_html": "<p>Carriage step and hitching posts. All of the horse head hitching posts around here have had their ears knocked off.</p>\n\n<p><img src=\"uploads/2026/carriage-step.jpg\"><img src=\"uploads/2026/horsehead-hitching-post.jpg\"><img src=\"uploads/2026/branch-and-vine-hitching-post.jpg\"></p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2026/03/19/the-haunted-smart-house-lights.html",
 				
-				"content_html": "<p><a href=\"https://www.annahavron.com/blog/blog-post-haunted-smart-house\">The Haunted Smart House</a>\nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us knows how to fix it.</p>\n\n<p><img src=\"uploads/2026/img-5689.jpg\"></p>\n",
-				"content_text": "[The Haunted Smart House](https://www.annahavron.com/blog/blog-post-haunted-smart-house) \nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us knows how to fix it.\n\n<img src=\"uploads/2026/img-5689.jpg\">\n",
+				"content_html": "<p><a href=\"https://www.annahavron.com/blog/blog-post-haunted-smart-house\">The Haunted Smart House</a>\nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us knows how to fix it.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5689.jpg\"></p>\n",
+				"content_text": "[The Haunted Smart House](https://www.annahavron.com/blog/blog-post-haunted-smart-house) \nLights turn on and off randomly; speakers in different locations of the house start blasting the Everly Brothers. And none of us knows how to fix it.\n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5689.jpg\">\n",
 				"date_published": "2026-03-19T18:09:35-04:00",
 				"url": "https://annarama.net/2026/03/19/the-haunted-smart-house-lights.html"
 			},
