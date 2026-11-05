@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2026/11/05/thursday-morning-planning-session-im.html",
+				
+				"content_html": "<p>Thursday morning planning session. I&rsquo;m making it a point to do my weekly planning at a coffee shop within walking distance of my house.</p>\n\n<p><img src=\"uploads/2026/anna-planna.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
+				"content_text": "Thursday morning planning session. I'm making it a point to do my weekly planning at a coffee shop within walking distance of my house. \n\n<img src=\"uploads/2026/anna-planna.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-11-05T13:51:44-05:00",
+				"url": "https://annarama.net/2026/11/05/thursday-morning-planning-session-im.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2026/11/03/trying-to-get-back-into.html",
 				
 				"content_html": "<p>Trying to get back into a regular writing routine. I&rsquo;m calling it AnnaWriMo.</p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2026/05/23/years-ago-most-of-this.html",
 				
-				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-23T17:48:31-05:00",
 				"url": "https://annarama.net/2026/05/23/years-ago-most-of-this.html"
 			},
