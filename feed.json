@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2026/11/06/my-new-favorite-sticker.html",
+				
+				"content_html": "<p>My new favorite sticker:</p>\n\n<p><img src=\"uploads/2026/img-6436.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "My new favorite sticker: \n\n<img src=\"uploads/2026/img-6436.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-11-06T06:49:07-05:00",
+				"url": "https://annarama.net/2026/11/06/my-new-favorite-sticker.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2026/11/05/thursday-morning-planning-session-im.html",
 				
-				"content_html": "<p>Thursday morning planning session. I&rsquo;m making it a point to do my weekly planning at a coffee shop within walking distance of my house.</p>\n\n<p><img src=\"uploads/2026/anna-planna.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
-				"content_text": "Thursday morning planning session. I'm making it a point to do my weekly planning at a coffee shop within walking distance of my house. \n\n<img src=\"uploads/2026/anna-planna.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Thursday morning planning session. I&rsquo;m making it a point to do my weekly planning at a coffee shop within walking distance of my house.</p>\n\n<p><img src=\"uploads/2026/anna-planna.jpg\" alt=\"paper planner, writing supplies, and cup of tea on a coffee shop table\n\"></p>\n",
+				"content_text": "Thursday morning planning session. I'm making it a point to do my weekly planning at a coffee shop within walking distance of my house.\n\n<img src=\"uploads/2026/anna-planna.jpg\" alt=\"paper planner, writing supplies, and cup of tea on a coffee shop table\n\">\n",
 				"date_published": "2026-11-05T13:51:44-05:00",
 				"url": "https://annarama.net/2026/11/05/thursday-morning-planning-session-im.html"
 			},
@@ -41,16 +49,16 @@
 			{
 				"id": "http://annahavron.micro.blog/2026/06/14/carriage-step-and-hitching-posts.html",
 				
-				"content_html": "<p>Carriage step and hitching posts. All of the horse head hitching posts around here have had their ears knocked off.</p>\n\n<p><img src=\"uploads/2026/carriage-step.jpg\"><img src=\"uploads/2026/horsehead-hitching-post.jpg\"><img src=\"uploads/2026/branch-and-vine-hitching-post.jpg\"></p>\n",
-				"content_text": "Carriage step and hitching posts. All of the horse head hitching posts around here have had their ears knocked off.\n\n<img src=\"uploads/2026/carriage-step.jpg\"><img src=\"uploads/2026/horsehead-hitching-post.jpg\"><img src=\"uploads/2026/branch-and-vine-hitching-post.jpg\">\n",
+				"content_html": "<p>Carriage step and hitching posts. All of the horse head hitching posts around here have had their ears knocked off.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/carriage-step.jpg\"><img src=\"https://cdn.uploads.micro.blog/33765/2026/horsehead-hitching-post.jpg\"><img src=\"https://cdn.uploads.micro.blog/33765/2026/branch-and-vine-hitching-post.jpg\"></p>\n",
+				"content_text": "Carriage step and hitching posts. All of the horse head hitching posts around here have had their ears knocked off.\n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/carriage-step.jpg\"><img src=\"https://cdn.uploads.micro.blog/33765/2026/horsehead-hitching-post.jpg\"><img src=\"https://cdn.uploads.micro.blog/33765/2026/branch-and-vine-hitching-post.jpg\">\n",
 				"date_published": "2026-06-14T15:19:26-05:00",
 				"url": "https://annarama.net/2026/06/14/carriage-step-and-hitching-posts.html"
 			},
 			{
 				"id": "http://annahavron.micro.blog/2026/05/23/years-ago-most-of-this.html",
 				
-				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-23T17:48:31-05:00",
 				"url": "https://annarama.net/2026/05/23/years-ago-most-of-this.html"
 			},
