@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2026/11/08/well-well-well-its-knowember.html",
+				
+				"content_html": "<p>Well, well, well, it&rsquo;s <a href=\"https://robertbirming.com/knowember/\">Knowember</a> and <a href=\"https://annarama.net/knowember/\">I made a page for it!</a> Thanks to <a href=\"https://micro.blog/birming\">@birming</a> for this cool way to get to know one another.</p>\n",
+				"content_text": "Well, well, well, it's [Knowember](https://robertbirming.com/knowember/) and [I made a page for it!](https://annarama.net/knowember/) Thanks to [@birming](https://micro.blog/birming) for this cool way to get to know one another. \n",
+				"date_published": "2026-11-08T19:49:14-05:00",
+				"url": "https://annarama.net/2026/11/08/well-well-well-its-knowember.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2026/11/06/my-new-favorite-sticker.html",
 				
 				"content_html": "<p>My new favorite sticker:</p>\n\n<p><img src=\"uploads/2026/img-6436.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
@@ -57,8 +65,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2026/05/23/years-ago-most-of-this.html",
 				
-				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-23T17:48:31-05:00",
 				"url": "https://annarama.net/2026/05/23/years-ago-most-of-this.html"
 			},
