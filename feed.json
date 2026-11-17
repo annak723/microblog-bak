@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://annahavron.micro.blog/2026/11/17/the-analog-office-is-back.html",
+				
+				"content_html": "<p>The Analog Office is back with another reflection on the Eternal Question: <a href=\"https://analogoffice.net/2026/11/17/reader-question-lumper-status-is.html\">Is it better to use one notebook, or lots of them?</a></p>\n",
+				"content_text": "The Analog Office is back with another reflection on the Eternal Question: [Is it better to use one notebook, or lots of them?](https://analogoffice.net/2026/11/17/reader-question-lumper-status-is.html) \n",
+				"date_published": "2026-11-17T16:34:18-05:00",
+				"url": "https://annarama.net/2026/11/17/the-analog-office-is-back.html"
+			},
+			{
 				"id": "http://annahavron.micro.blog/2026/11/14/happy-caturday.html",
 				
 				"content_html": "<p>Happy Caturday</p>\n\n<p><img src=\"uploads/2026/img-6451.jpg\" width=\"600\" height=\"450\" alt=\"\"></p>\n",
@@ -73,8 +81,8 @@
 			{
 				"id": "http://annahavron.micro.blog/2026/05/23/years-ago-most-of-this.html",
 				
-				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
-				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"uploads/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>25 years ago, most of this garden was a lawn.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "25 years ago, most of this garden was a lawn. \n\n<img src=\"https://cdn.uploads.micro.blog/33765/2026/img-5996.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-05-23T17:48:31-05:00",
 				"url": "https://annarama.net/2026/05/23/years-ago-most-of-this.html"
 			},
